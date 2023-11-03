@@ -2,7 +2,7 @@
 title: InterPacs Wiki
 description: InterPacs uygulamalarının kurulum, kullanım ve hata çözüm kılavuzları
 published: true
-date: 2023-11-03T12:41:14.167Z
+date: 2023-11-03T12:41:43.594Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
@@ -23,8 +23,8 @@ InterPacs tarafından geliştirilen ana uygulamalar bu bölümün altında bulun
 
 Ana uygulamalara yardımcı uygulamalar bu bölümün altında bulunur.
 
-- [Application Server *InterPacs uygulamaları için kimlik doğrulama ve yetki hizmeti sunar.*](/utilities/appserver)
-- [Application Selector *Web üzerinden gelen isteklerin masaüstü uygulamalarına aktarılmasını sağlar.*](/utilities/appselector)
+- [Application Server *InterPacs uygulamaları için kimlik doğrulama ve yetki hizmeti sunar.*](/Yardımcı Uygulamalar/AppServer)
+- [Application Selector *Web üzerinden gelen isteklerin masaüstü uygulamalarına aktarılmasını sağlar.*](/Yardımcı Uygulamalar/AppSelector)
 {.links-list}
 
 # Administration
