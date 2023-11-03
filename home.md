@@ -2,7 +2,7 @@
 title: InterPacs Wiki
 description: InterPacs uygulamalarının kurulum, kullanım ve hata çözüm kılavuzları
 published: true
-date: 2023-11-03T12:16:12.645Z
+date: 2023-11-03T12:20:09.981Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
@@ -11,15 +11,17 @@ dateCreated: 2023-11-03T11:22:35.311Z
 > This documentation site is running on Wiki.js!
 {.is-success}
 
-# Getting Started
+# Uygulamalar
 
-Wiki.js is quick and easy to install. You should be up and running in no time.
+InterPacs tarafından geliştirilen ana uygulamalar bu bölümün altında bulunur.
 
-- [Requirements *Server and database prerequisites.*](/install/requirements)
-- [Installation Guide *Detailed installation instructions for all platforms.*](/install)
+- [Console *Pacs sunucusunun yönetim arayüzü.*](/applications/console)
+- [Dicom Viewer (Masaüstü) *Masaüstü dicom görüntüleyici.*](/applications/dicomviewer)
 {.links-list}
 
-# User Guide
+# Yardımcı Uygulamalar
+
+Ana uygulamalara yardımcı uygulamalar bu bölümün altında bulunur.
 
 - [The Basics *New to Wiki.js? Learn how to use it and create your first page.*](/guide/intro)
 - [Folder Structure & Tags *Learn how to categorize your pages for an easier browsing experience.*](/guide/structure)
