@@ -2,14 +2,11 @@
 title: InterPacs Wiki
 description: InterPacs uygulamalarının kurulum, kullanım ve hata çözüm kılavuzları
 published: true
-date: 2023-11-03T12:27:26.681Z
+date: 2023-11-03T12:27:52.542Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
 ---
-
-> This documentation site is running on Wiki.js!
-{.is-success}
 
 # Uygulamalar
 
