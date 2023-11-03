@@ -2,7 +2,7 @@
 title: InterPacs Wiki
 description: InterPacs uygulamalarının kurulum, kullanım ve hata çözüm kılavuzları
 published: true
-date: 2023-11-03T12:27:52.542Z
+date: 2023-11-03T12:41:14.167Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
@@ -12,11 +12,11 @@ dateCreated: 2023-11-03T11:22:35.311Z
 
 InterPacs tarafından geliştirilen ana uygulamalar bu bölümün altında bulunur.
 
-- [Console *Pacs sunucusunun yönetim arayüzü.*](/applications/console)
-- [Dicom Viewer (Masaüstü) *Masaüstü dicom görüntüleyici.*](/applications/dicomviewer)
-- [Radiology Management System (RMS) *Radyoloji yönetim sistemi.*](/applications/rms)
+- [Console *Pacs sunucusunun yönetim arayüzü.*](/Uygulamalar/Console)
+- [Dicom Viewer (Masaüstü) *Masaüstü dicom görüntüleyici.*](/Uygulamalar/DicomViewer)
+- [Radiology Management System (RMS) *Radyoloji yönetim sistemi.*](/Uygulamalar/RMS)
 - [Study Burner *Dicom verilerini medya ortamına aktararak hastane ve hasta verilerini üzerine basan uygulama.*](/applications/studyburner)
-- [Web Viewer (OHIF) *Web sitesi üzerinden çalışan dicom görüntüleyici.*](/applications/webviewerohif)
+- [Web Viewer (OHIF) *Web sitesi üzerinden çalışan dicom görüntüleyici.*](/Uygulamalar/WebViewerOHIF)
 {.links-list}
 
 # Yardımcı Uygulamalar
