@@ -2,20 +2,10 @@
 title: Untitled Page
 description: 
 published: true
-date: 2023-11-03T11:22:35.311Z
+date: 2023-11-03T11:28:21.927Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
----
-
----
-title: Wiki.js
-description: Official Documentation for 2.x
-published: true
-date: 2022-06-12T21:20:29.807Z
-tags: 
-editor: markdown
-dateCreated: 2019-02-15T04:20:30.188Z
 ---
 
 > This documentation site is running on Wiki.js!
