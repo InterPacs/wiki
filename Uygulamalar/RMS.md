@@ -2,7 +2,7 @@
 title: Radiology Management System (RMS)
 description: Radyoloji Yönetim Sistemi
 published: true
-date: 2023-11-03T13:18:24.765Z
+date: 2023-11-03T18:30:39.285Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T12:31:03.038Z
@@ -17,6 +17,8 @@ dateCreated: 2023-11-03T12:31:03.038Z
 
 
 # Kurulum
+zip dosyası C:\ITP\RMS klasörü içine açılır.
+IIS üzerinde yeni bir uygulama oluşturularak bu klasöre bağlanır.
 
 # Kullanım
 
