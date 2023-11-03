@@ -2,11 +2,15 @@
 title: InterPacs Wiki
 description: InterPacs uygulamalarının kurulum, kullanım ve hata çözüm kılavuzları
 published: true
-date: 2023-11-03T13:20:53.332Z
+date: 2023-11-03T18:37:17.365Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
 ---
+
+InterPacs, Türkiye'de 20 yılı aşkın bir süredir hastane yazılım çözümleri üreten ve geliştiren bir şirkettir. Şirketin uzmanlık alanı, PACS (Picture Archiving and Communication System), RIS (Radiology Information System) gibi hastanelerin tüm departmanlarının ihtiyaç duyduğu yazılım çözümleridir.
+InterPacs'ın PACS çözümü, radyoloji görüntülerinin güvenli ve hızlı bir şekilde arşivlenmesini, görüntülenmesini ve raporlanmasını sağlar. RIS çözümü ise radyoloji departmanlarının iş akışını optimize ederek radyoloji hizmetlerinin daha verimli ve etkili bir şekilde sunulmasına yardımcı olur. 
+Interpacs'ın yazılım çözümleri, Türkiye'nin önde gelen hastanelerinde ve sağlık kuruluşlarında kullanılmaktadır. Interpacs, sağlık sektöründeki yenilikleri yakından takip eden ve yazılım çözümlerini sürekli olarak geliştiren bir şirkettir. Şirketin amacı, hastanelere ve sağlık kuruluşlarına ihtiyaç duydukları en iyi yazılım çözümlerini sunarak sağlık hizmetlerinin kalitesinin yükselmesine katkıda bulunmaktadır.
 
 # Uygulamalar
 
