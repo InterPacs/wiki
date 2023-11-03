@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
-description: 
+title: InterPacs Wiki
+description: InterPacs uygulamalarının kurulum, kullanım ve hata çözüm kılavuzları
 published: true
-date: 2023-11-03T11:28:21.927Z
+date: 2023-11-03T11:29:28.065Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
