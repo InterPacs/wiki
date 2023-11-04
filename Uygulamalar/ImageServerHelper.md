@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-11-04T07:22:01.857Z
+date: 2023-11-04T07:22:10.056Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -12,7 +12,7 @@ dateCreated: 2023-11-03T13:25:36.752Z
 
 ### Teletıp Hataları
 
-- [T001 Kos Gönderim - *The request channel timed out while waiting for a reply*](/Hatalar/T001)
+- [T001 Kos Gönderim Hatası - *The request channel timed out while waiting for a reply*](/Hatalar/T001)
 {.links-list}
 - [T002 Kos Silme Hatası - *Teletıp sistemi üzerinden yazmış rapor kayıdı bulunmaktır. Silme işlemi yapılamadı.*](/Hatalar/T002)
 {.links-list}
