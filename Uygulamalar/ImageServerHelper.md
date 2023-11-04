@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-11-04T07:22:46.243Z
+date: 2023-11-04T07:22:59.928Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -20,7 +20,7 @@ dateCreated: 2023-11-03T13:25:36.752Z
 {.links-list}
 - [T004 Kos Gönderim Hatası - *Could not find a part of the path.*](/Hatalar/T004)
 {.links-list}
-- [T005 Kos Gönderim Hatası - *Could not find a part of the path.*](/Hatalar/T005)
+- [T005 Kos Gönderim Hatası - *Data source/Sop type mismatch. Parameter name: dataSource.*](/Hatalar/T005)
 {.links-list}
 - [T006 Kos Gönderim Hatası - *Could not find a part of the path.*](/Hatalar/T006)
 {.links-list}
