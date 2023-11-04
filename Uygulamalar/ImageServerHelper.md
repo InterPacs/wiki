@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-11-04T07:23:18.167Z
+date: 2023-11-04T07:24:04.404Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -24,7 +24,7 @@ dateCreated: 2023-11-03T13:25:36.752Z
 {.links-list}
 - [T006 Kos Gönderim Hatası - *Çekim tarihi boş olamaz (DicomTag.StudyDate ve DicomTag.StudyTime etiketleri)*](/Hatalar/T006)
 {.links-list}
-- [T007 Kos Gönderim Hatası - *Could not find a part of the path.*](/Hatalar/T007)
+- [T007 Oluşturulacaktır.](/Hatalar/T007)
 {.links-list}
 - [T008 Kos Gönderim Hatası - *Could not find a part of the path.*](/Hatalar/T008)
 {.links-list}
