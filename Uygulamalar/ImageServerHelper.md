@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-11-04T07:24:04.404Z
+date: 2023-11-04T07:25:11.243Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -26,9 +26,9 @@ dateCreated: 2023-11-03T13:25:36.752Z
 {.links-list}
 - [T007 Oluşturulacaktır.](/Hatalar/T007)
 {.links-list}
-- [T008 Kos Gönderim Hatası - *Could not find a part of the path.*](/Hatalar/T008)
+- [T008 Kos Gönderim Hatası - *Hastaneye ait aynı StudyInstanceUID'li tetkik ** Accession numarası ile bulunmakta*](/Hatalar/T008)
 {.links-list}
-- [T009 Kos Gönderim Hatası - *Could not find a part of the path.*](/Hatalar/T009)
+- [T009 Kos Gönderim Hatası - *Gönderilecek Study : ** için Series sayısı 0*](/Hatalar/T009)
 {.links-list}
 
 
