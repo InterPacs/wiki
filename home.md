@@ -2,7 +2,7 @@
 title: InterPacs Wiki
 description: InterPacs uygulamalarının kurulum, kullanım ve hata çözüm kılavuzları
 published: true
-date: 2023-11-03T18:39:29.341Z
+date: 2023-11-06T06:12:39.055Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
@@ -72,3 +72,5 @@ Wiki.js is fully extensible for maximum customization.
 - [:bulb: Suggest a New Feature *We need your ideas!*](https://requests.requarks.io/wiki)
 - [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](https://js.wiki/donate)
 {.links-list}
+
+![](/logo600x250.png){.align-abstopright}
