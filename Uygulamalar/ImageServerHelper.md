@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-11-06T07:08:49.229Z
+date: 2023-11-06T07:09:18.288Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -48,6 +48,6 @@ dateCreated: 2023-11-03T13:25:36.752Z
 {.links-list}
 - [T009 Kos Gönderim Hatası - *Gönderilecek Study : ** için Series sayısı 0*](/Hatalar/T009)
 {.links-list}
-- [T010 Kos Gönderim Hatası - *Invalid value length*](/Hatalar/T009)
+- [T010 Kos Gönderim Hatası - *Invalid value length*](/Hatalar/T010)
 {.links-list}
 
