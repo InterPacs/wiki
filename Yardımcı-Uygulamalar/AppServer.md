@@ -2,7 +2,7 @@
 title: Application Server
 description: InterPacs uygulamalarının kimlik doğrulama, yetkilendirme gibi ihtiyaçlarını karşılayan servis.
 published: true
-date: 2023-11-13T10:45:16.073Z
+date: 2023-11-13T10:49:24.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-13T10:45:16.073Z
@@ -31,5 +31,5 @@ dateCreated: 2023-11-13T10:45:16.073Z
 # Bakım
 
 # Hata Çözümleri
-- [APPSRV001 Session timeout.](/Hatalar/APPSRV001) Uygulamanızdan başarılı bir şekilde oturum açıldıktan sonra session timeout hatası ile karşılaşılır.
+- [APPSRV001 Session timeout.]() Uygulamanızdan başarılı bir şekilde oturum açıldıktan sonra session timeout hatası ile karşılaşılır. Uygulamayı HTTPS üzerinden çalıştırdığınıza emin olun.
 {.links-list}
