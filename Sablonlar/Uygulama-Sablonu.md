@@ -1,8 +1,8 @@
 ---
-title: Uygulama Adı
+title: Uygulama Şablonu
 description: Uygulama kısa açıklama
 published: true
-date: 2023-11-16T10:28:39.837Z
+date: 2023-11-16T11:01:04.563Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T10:19:21.852Z
