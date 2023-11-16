@@ -2,11 +2,14 @@
 title: Uygulama Adı
 description: Uygulama kısa açıklama
 published: true
-date: 2023-11-16T10:19:21.852Z
+date: 2023-11-16T10:23:03.909Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T10:19:21.852Z
 ---
+
+Uygulamanın tanıtımı ve uzun açıklaması.
+
 
 # Sürüm Notları
 ### v1.0.0 - (isteğe bağlı açıklama)
@@ -16,8 +19,9 @@ dateCreated: 2023-11-16T10:19:21.852Z
 
 
 # Kurulum
-zip dosyası C:\ITP\RMS klasörü içine açılır.
-IIS üzerinde yeni bir uygulama oluşturularak bu klasöre bağlanır.
+1. zip dosyası ... klasörü içine açılır.
+2. IIS üzerinde yeni bir uygulama oluşturularak bu klasöre bağlanır.
+
 
 ## Gereksinimler
 > [App Server](/Uygulamalar/AppServer) kurulu ve erişilebilir olmak zorundadır.
