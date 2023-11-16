@@ -2,7 +2,7 @@
 title: Study Burner
 description: Hastanın PACS verilerini medya ortamına aktararak üzerine baskı yapılmasını sağlar
 published: true
-date: 2023-11-16T13:31:22.507Z
+date: 2023-11-16T14:13:14.230Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T13:31:22.507Z
@@ -12,6 +12,15 @@ Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki 
 
 
 # Sürüm Notları
+### v1.3.3
+- Uygulama tamamen 64bit'e çevrildi. Böylelikle daha yüksek memory kullanımının yolu açıldı.
+- Bu versiyon 32bit işletim sistemlerinde çalışmaz
+### v1.3.2
+- Daha önce PACS'tan indirilmiş fakat zaman aşımına uğradığı için diskten silinmiş ve daha sonra tekrar basılmaya çalışılan çekimlerle ilgili bir sorun giderildi.
+- Cihazdan gönderilen çekimlerin boyutuna göre CD yada DVD medyasını doğru seçmesi ile ilgili bir sorun giderildi.
+- Networkten çalışabilen EPSON cihazlar için destek eklendi.
+- Hastanın doğum tarihinin boş yada 1900'den küçük geldiği durumlarda oluşan bir sorun giderildi.
+- Syngo uygulaması kendi sitesinden son versiyon indirilerek sisteme entegre edildi.
 ### v1.3.1
 - Medya uyuşmazlığı gibi görünüp işlerin iş sırasında kalması ile ilgili bir sorun giderildi.
 - Birden fazla medya türü konulabilen cihazlarda tek medya kullanabilme özelliği eklendi.
@@ -58,6 +67,9 @@ Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki 
 {.is-warning}
 
 ### Epson
+> Epson PP-50, PP-100, PP-100II, PP-100III, PP-100N cihazlar ile uyumludur.
+{.is-warning}
+
 > Epson yazılımları kurulu olmalıdır.
 {.is-warning}
 
@@ -69,6 +81,7 @@ Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki 
 
 ## Kurulum Adımları
 1. Web setup ve servis setup kurulumları yapılır.
+1. vc redist x86 dosyasının kurulumu yapılır.
 1. [Lisans]() verilir.
 1. Study Burner servisi çalıştırılır.
 1. [https://localhost/StudyBurner](https://localhost/StudyBurner) adresinden uygulamaya erişilir.
