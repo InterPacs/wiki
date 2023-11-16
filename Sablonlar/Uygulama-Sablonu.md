@@ -2,7 +2,7 @@
 title: Uygulama Adı
 description: Uygulama kısa açıklama
 published: true
-date: 2023-11-16T10:23:03.909Z
+date: 2023-11-16T10:28:39.837Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T10:19:21.852Z
@@ -43,3 +43,5 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 ### Uygulama Hataları
 
 ### Uygulama Dışı Hatalar
+
+[Geliştirme Notları](/Gelistirme/Uygulama-Adi)
