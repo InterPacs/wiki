@@ -2,7 +2,7 @@
 title: Application Selector
 description: Web uygulamaları tarafından gelen istekleri InterPacs uygulamalarına gönderir
 published: true
-date: 2023-11-16T10:53:30.317Z
+date: 2023-11-16T11:04:21.518Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T10:53:30.317Z
@@ -28,8 +28,7 @@ Web uygulamalarının InterPacs uygulamalarına entegre olarak istek ve veri gö
 2. Eğer bilgisayar bir Active Directory Domainine bağlı ise kurulum esnasında sorulan URL yetkisi alanına yetki verilecek domain kullanıcı adı veya grubu yazılır.
 3. Kurulum tamamlanır.
 
-Not: Eğer URL yetkisi verme işlemi bir şekilde başarısız oluyorsa yönetici olarak açılmış komut satırından aşağıdaki kod çalıştırılarak yetki verilebilir. Aksi taktirde [Uygulamanın açılması çok uzun sürdü](/Hatalar/AppSel001) Hatası alınır. Aşağıdaki komutta örnek kullanıcı adı ahmet olarak verilmiştir. Bu kısıma domainadı\kullanıcıadı şeklinde uygun bilgiyi yazmalısınız.
-`netsh http add urlacl url=http://+:51124/ClearCanvas/ImageViewer/Automation user=ahmet`
+Not: Eğer URL yetkisi verme işlemi bir şekilde başarısız oluyorsa [Uygulamanın açılması çok uzun sürdü](/Hatalar/AppSel001) hatasına bakınız.
 
 ## Gereksinimler
 
