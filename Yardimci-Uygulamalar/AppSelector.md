@@ -2,7 +2,7 @@
 title: Application Selector
 description: Web uygulamaları tarafından gelen istekleri InterPacs uygulamalarına gönderir
 published: true
-date: 2023-11-18T17:55:03.035Z
+date: 2023-11-18T17:56:48.035Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T10:53:30.317Z
@@ -15,11 +15,11 @@ Web uygulamalarının InterPacs uygulamalarına entegre olarak istek ve veri gö
 ## Sürüm Notları
 ### v1.5.6
 - Bir görüntü açılmak istendiğinde Windows üzerinde oturum açmış olan kullanıcı adı ve açmak istediği görüntü bilgilerinin InterPacs.Viewer uygulamasının Log servisine gönderilmesi sağlandı. Bu özelliğin çalışması için Viewer uygulamasında kullanıcı adı: log şifresi: log4net olan bir kullanıcı açılması gerekiyor. Daha sonra uygulama üzerinden Log yaz seçeneği seçilerek sunucu adresinin aşağıdakine benzer şekilde girilmesi gerekiyor.
-![001.png](/appsel/001.png)
+![001.png](/appsel/001.png =600x)
 - Uygulamaya tanımladığımız sunucu ve partition listesinin InterPacs Dicom Viewer'ın sunucu listesini güncellemesi sağlandı. Sunucular ve bölümler ekranında aşağıda kalan "Viewer'ın sunucularınıda güncelle" seçeneği seçildiği zaman bu listedeki bilgiler Viewer'ın listesine otomatik eklenecek.
-![002.png](/appsel/002.png)
+![002.png](/appsel/002.png =300x)
 - Ayrıca bu eklenen kayıtlar Application Selector üzerinden değiştirildiğinde Viewer üzerinde de değişiklik gerçekleşiyor fakat bu takibin yapılabilmesi için Viewer üzerinde Location kısmının kurcalanmamış olması gerekiyor. Location kısmına sunucuları takip etmek için bir numara yazıyoruz. Bu silinirse takip edilemiyor. Sunucu isimleri Viewer'a SunucuAdı.BölümAdı şeklinde geliyor.
-![003.png](/appsel/003.png)
+![003.png](/appsel/003.png =300x)
 ### v1.4.1
 - Uygulamanın birden fazla partition'a baktığında birden fazla çekim bulursa ekrana bir pencere çıkartıp hangisini açmak istediğini kullanıcıya sorması sağlandı. Açılan pencerede çekimlerin hangi sunucuda olduğuda gözükmekte. Dolayısıyla kullanıcı kendisine yakın olanı da seçebilir hale geldi.
 ### v1.3.0
