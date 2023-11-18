@@ -2,7 +2,7 @@
 title: Study Burner
 description: Hastanın PACS verilerini medya ortamına aktararak üzerine baskı yapılmasını sağlar
 published: true
-date: 2023-11-16T14:32:07.446Z
+date: 2023-11-18T17:49:57.283Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T13:31:22.507Z
@@ -10,8 +10,9 @@ dateCreated: 2023-11-16T13:31:22.507Z
 
 Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki hasta verilerini medya ortamına aktarır ve üzerine hastane, hasta, çekim bilgilerini yazar.
 
+# Tabs {.tabset}
 
-# Sürüm Notları
+## Sürüm Notları
 ### v1.3.4
 - About penceresine CE logosu eklendi
 - Ayarlar penceresinde CD içine koyulacak uygulamalara InterPacs seçeneği eklendi
@@ -61,15 +62,15 @@ Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki 
 
 
 
-# Kurulum
-## Gereksinimler
+## Kurulum
+### Gereksinimler
 > IIS kurulu olmak zorundadır. Kurulurken Metatabanı uyumluluğu seçilmelidir.
 {.is-warning}
-### Rimage
+#### Rimage
 > Rimage yazılımları kurulu olmalıdır.
 {.is-warning}
 
-### Epson
+#### Epson
 > Epson PP-50, PP-100, PP-100II, PP-100III, PP-100N cihazlar ile uyumludur.
 {.is-warning}
 
@@ -82,7 +83,7 @@ Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki 
 > Epson Total Disc Manager ile TDBridge aynı versiyon olmalıdır.
 {.is-warning}
 
-## Kurulum Adımları
+### Kurulum Adımları
 1. Web setup ve servis setup kurulumları yapılır.
 1. vc redist x86 dosyasının kurulumu yapılır.
 1. [Lisans]() verilir.
@@ -93,14 +94,15 @@ Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki 
 1. Servis yeniden başlatılır.
 
 
-# Kullanım
+## Kullanım
 
-# Bakım
+## Bakım
 
-# Hata Çözümleri
+## Hata Çözümleri
 
 ### Uygulama Hataları
 
 ### Uygulama Dışı Hatalar
 
+#
 [Geliştirme Notları](/Gelistirme/StudyBurner)
