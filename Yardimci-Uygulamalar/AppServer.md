@@ -2,7 +2,7 @@
 title: Application Server
 description: InterPacs uygulamalarının kimlik doğrulama, yetkilendirme gibi ihtiyaçlarını karşılayan servis.
 published: true
-date: 2023-11-13T11:17:35.275Z
+date: 2023-11-18T17:31:02.700Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-13T10:45:16.073Z
@@ -17,7 +17,7 @@ dateCreated: 2023-11-13T10:45:16.073Z
 
 
 # Kurulum
-- Setup dosyasından kurulup yapılır.
+- Setup dosyasından kurulum yapılır.
 - [Lisans verilir](/Yardımcı-Uygulamalar/Lisans).
 - C:\Program Files (x86)\InterPacs Health Solutions\InterPacs Application Server klasöründeki config dosyalarına sql bağlantı bilgileri yazılır.
 - Kurulum klasöründeki InterPacs.AppServer.DebugForm uygulaması çalıştırılır.
