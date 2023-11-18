@@ -2,13 +2,15 @@
 title: Radiology Management System (RMS)
 description: Radyoloji Yönetim Sistemi
 published: true
-date: 2023-11-03T18:30:39.285Z
+date: 2023-11-18T17:47:11.314Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T12:31:03.038Z
 ---
 
-# Gereksinimler
+# Tabs {.tabset}
+## Kurulum
+### Gereksinimler
 > [App Server](/Uygulamalar/AppServer) kurulu ve erişilebilir olmak zorundadır.
 {.is-warning}
 
@@ -16,15 +18,15 @@ dateCreated: 2023-11-03T12:31:03.038Z
 {.is-warning}
 
 
-# Kurulum
+### Kurulum Adımları
 zip dosyası C:\ITP\RMS klasörü içine açılır.
 IIS üzerinde yeni bir uygulama oluşturularak bu klasöre bağlanır.
 
-# Kullanım
+## Kullanım
 
-# Bakım
+## Bakım
 
-# Hata Çözümleri
+## Hata Çözümleri
 
 ### Uygulama Hataları
 
