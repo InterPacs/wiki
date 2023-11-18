@@ -2,13 +2,14 @@
 title: Radiology Management System (RMS)
 description: Radyoloji Yönetim Sistemi
 published: true
-date: 2023-11-18T17:47:11.314Z
+date: 2023-11-18T17:52:08.213Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T12:31:03.038Z
 ---
 
 # Tabs {.tabset}
+## Sürüm Notları
 ## Kurulum
 ### Gereksinimler
 > [App Server](/Uygulamalar/AppServer) kurulu ve erişilebilir olmak zorundadır.
