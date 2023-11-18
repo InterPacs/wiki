@@ -2,13 +2,16 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-11-06T07:09:18.288Z
+date: 2023-11-18T17:46:09.070Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
 ---
 
-# Gereksinimler
+# Tabs {.tabset}
+## Kurulum
+
+### Gereksinimler
 > [App Server](/Uygulamalar/AppServer) kurulu ve erişilebilir olmak zorundadır.
 {.is-warning}
 
@@ -18,15 +21,14 @@ dateCreated: 2023-11-03T13:25:36.752Z
 > Microsoft SQL Server 2012 ve sonrası kurulu olmalıdır.
 {.is-warning}
 
-
-# Kurulum
+### Kurulum Adımları
 
 - Zip dosyası C:\inetpub\ImageServerHelper klasörü içine açılır.
 - IIS üzerinde default web site üzerinde ImageServerHelper isimli https bir uygulama açılarak ilk maddedeki klasöre eklenir.
 
-# Kullanım
-# Bakım
-# Hata Çözümleri
+## Kullanım
+## Bakım
+## Hata Çözümleri
 
 ### Teletıp Hataları
 
