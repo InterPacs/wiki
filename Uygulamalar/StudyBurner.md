@@ -2,7 +2,7 @@
 title: Study Burner
 description: Hastanın PACS verilerini medya ortamına aktararak üzerine baskı yapılmasını sağlar
 published: true
-date: 2023-11-18T17:49:57.283Z
+date: 2023-11-18T17:50:45.982Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T13:31:22.507Z
@@ -14,7 +14,6 @@ Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki 
 
 ## Sürüm Notları
 ### v1.3.4
-- About penceresine CE logosu eklendi
 - Ayarlar penceresinde CD içine koyulacak uygulamalara InterPacs seçeneği eklendi
 ### v1.3.3
 - Uygulama tamamen 64bit'e çevrildi. Böylelikle daha yüksek memory kullanımının yolu açıldı.
