@@ -2,7 +2,7 @@
 title: Dicom Viewer
 description: Geliştirme Notları
 published: true
-date: 2023-11-23T12:36:31.736Z
+date: 2023-11-23T12:36:44.328Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T09:07:21.808Z
@@ -33,7 +33,7 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 
 ## Kullanım
 
-### Retrieve
+### Retrieve (Görüntüyü indirme)
 
 - Servis oluşturulur.
 >sc create InterPacs.DicomViewer binpath= "C:\ITP\VIEWER\ClearCanvas.Server.ShredHostService.exe -service"
