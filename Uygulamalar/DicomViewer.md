@@ -2,7 +2,7 @@
 title: Dicom Viewer 
 description: Masaüstü Viewer
 published: true
-date: 2023-11-23T08:16:23.348Z
+date: 2023-11-23T08:16:50.773Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-23T08:11:15.539Z
@@ -26,7 +26,7 @@ dateCreated: 2023-11-23T08:11:15.539Z
 - İşletim sistemi x64 veya x86 olup olmadığı kontrol edilir.
 - C:\ITP\Viewer altına zip içerisinden uygun işletim sistemine göre dosyalar çıkartılır.
 - .exe dosyası masasüstüne kısayol aktarılır.
-- İlgili dicom suncusu eklenir. (/DicomViewer/K001)
+- [Sunucu Ekleme - *Bir dicom sunucusuna bağlanmak için sunucu ekleme.*](/DicomViewer/K001)
 
 
 ## Kullanım
