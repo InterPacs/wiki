@@ -2,7 +2,7 @@
 title: Dicom Viewer 
 description: Masaüstü Viewer
 published: true
-date: 2023-11-23T08:13:53.763Z
+date: 2023-11-23T08:14:02.209Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-23T08:11:15.539Z
@@ -27,7 +27,7 @@ dateCreated: 2023-11-23T08:11:15.539Z
 - IIS üzerinde default web site üzerinde ImageServerHelper isimli https bir uygulama açılarak ilk maddedeki klasöre eklenir.
 
 ## Kullanım
-- [Sunucu Ekleme - *Yeni bir dicom sunucusuna bağlanmak için *](/DicomViewer/T001)
+- [Sunucu Ekleme - *Yeni bir dicom sunucusuna bağlanmak için *](/DicomViewer/K001)
 {.links-list}
 ## Bakım
 ## Hata Çözümleri
