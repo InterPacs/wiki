@@ -2,7 +2,7 @@
 title: Dicom Viewer 
 description: Masaüstü Viewer
 published: true
-date: 2023-11-23T08:16:50.773Z
+date: 2023-11-23T09:04:26.240Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-23T08:11:15.539Z
@@ -36,4 +36,5 @@ dateCreated: 2023-11-23T08:11:15.539Z
 ## Hata Çözümleri
 
 
-
+#
+[Geliştirme Notları](/Gelistirme/DicomViewer)
