@@ -2,7 +2,7 @@
 title: Dicom Viewer
 description: Geliştirme Notları
 published: true
-date: 2023-11-23T12:36:51.279Z
+date: 2023-11-23T12:38:46.149Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T09:07:21.808Z
@@ -12,24 +12,15 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 
 # Tabs {.tabset}
 ## Sürüm Notları
-### v1.0.0
-- Değişiklik 1
-- Değişiklik 2
-
-
+### v4.1.7
 
 ## Kurulum
 
 ### Gereksinimler
-> [App Server](/Uygulamalar/AppServer) kurulu ve erişilebilir olmak zorundadır.
-{.is-warning}
 
-> InterPacs.Logs veritabanı kurulu ve erişilebilir olmak zorundadır.
-{.is-warning}
 
 ### Kurulum Adımları
-1. zip dosyası ... klasörü içine açılır.
-2. IIS üzerinde yeni bir uygulama oluşturularak bu klasöre bağlanır.
+
 
 ## Kullanım
 
