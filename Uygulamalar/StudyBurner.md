@@ -2,7 +2,7 @@
 title: Study Burner
 description: Hastanın PACS verilerini medya ortamına aktararak üzerine baskı yapılmasını sağlar
 published: true
-date: 2023-11-23T09:15:19.725Z
+date: 2023-11-23T09:15:40.969Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T13:31:22.507Z
@@ -105,6 +105,3 @@ Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki 
 
 #
 [Geliştirme Notları](/Gelistirme/StudyBurner)
-
-#
-[Geliştirme Notları](/Uygulamalar/StudyBurner#v111)
