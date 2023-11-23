@@ -2,7 +2,7 @@
 title: Dicom Viewer 
 description: Masaüstü Viewer
 published: true
-date: 2023-11-23T08:11:15.539Z
+date: 2023-11-23T08:13:53.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-23T08:11:15.539Z
@@ -14,13 +14,11 @@ dateCreated: 2023-11-23T08:11:15.539Z
 ## Kurulum
 
 ### Gereksinimler
-> [App Server](/Uygulamalar/AppServer) kurulu ve erişilebilir olmak zorundadır.
+
+> .net C++ Kütüphaneleri Kurulu olmalıdır.
 {.is-warning}
 
-> IIS kurulu olmalıdır.
-{.is-warning}
-
-> Microsoft SQL Server 2012 ve sonrası kurulu olmalıdır.
+> Windows 10 ve sonrası işletim sistemi olmalıdır.
 {.is-warning}
 
 ### Kurulum Adımları
@@ -29,12 +27,10 @@ dateCreated: 2023-11-23T08:11:15.539Z
 - IIS üzerinde default web site üzerinde ImageServerHelper isimli https bir uygulama açılarak ilk maddedeki klasöre eklenir.
 
 ## Kullanım
+- [Sunucu Ekleme - *Yeni bir dicom sunucusuna bağlanmak için *](/DicomViewer/T001)
+{.links-list}
 ## Bakım
 ## Hata Çözümleri
 
-### Teletıp Hataları
-
-- [T001 Kos Gönderim Hatası - *The request channel timed out while waiting for a reply*](/Hatalar/T001)
-{.links-list}
 
 
