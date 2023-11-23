@@ -2,7 +2,7 @@
 title: Dicom Viewer 
 description: Masaüstü Viewer
 published: true
-date: 2023-11-23T08:14:17.750Z
+date: 2023-11-23T08:16:23.348Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-23T08:11:15.539Z
@@ -23,8 +23,11 @@ dateCreated: 2023-11-23T08:11:15.539Z
 
 ### Kurulum Adımları
 
-- Zip dosyası C:\inetpub\ImageServerHelper klasörü içine açılır.
-- IIS üzerinde default web site üzerinde ImageServerHelper isimli https bir uygulama açılarak ilk maddedeki klasöre eklenir.
+- İşletim sistemi x64 veya x86 olup olmadığı kontrol edilir.
+- C:\ITP\Viewer altına zip içerisinden uygun işletim sistemine göre dosyalar çıkartılır.
+- .exe dosyası masasüstüne kısayol aktarılır.
+- İlgili dicom suncusu eklenir. (/DicomViewer/K001)
+
 
 ## Kullanım
 - [Sunucu Ekleme - *Bir dicom sunucusuna bağlanmak için sunucu ekleme.*](/DicomViewer/K001)
