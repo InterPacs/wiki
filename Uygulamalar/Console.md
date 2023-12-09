@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-09T13:39:44.978Z
+date: 2023-12-09T13:47:05.961Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -14,8 +14,16 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 # Tabs {.tabset}
 ## Sürüm Notları
 ### v1.0.0
-- Değişiklik 1
-- Değişiklik 2
+- Study ekranında KOS gönderim ve worklist durumlarının görülmesi sağlanmıştır. KOS gönderimi yapılmış ise çekim silme ve güncelleme yapması engellenmiştir.
+- Teletip yardımcı servisleri eklenmiştir.
+- "Workqueue" ekranı eklenmiştir.
+- "PACS Log" ekranı eklenmiştir.
+- "Raporlar" eklenmiştir.
+- Sık kullanılan SQL komutlarının çalıştırıldığı "Çoklu Komutlar" eklenmiştir.
+- "Cihazlar" ekranı eklenmiştir.
+- "Sunucu Bölümleri" ekranı eklenmiştir.
+- "Dosya Sistemleri" ekranı eklenmiştir.
+
 
 
 
