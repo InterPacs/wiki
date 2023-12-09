@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-09T14:01:39.671Z
+date: 2023-12-09T14:02:02.991Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -23,9 +23,6 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 - "Cihazlar" ekranı eklenmiştir.
 - "Sunucu Bölümleri" ekranı eklenmiştir.
 - "Dosya Sistemleri" ekranı eklenmiştir.
-
-
-
 
 ## Kurulum
 
