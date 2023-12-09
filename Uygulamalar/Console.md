@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-09T13:47:05.961Z
+date: 2023-12-09T13:49:45.779Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -37,8 +37,8 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 {.is-warning}
 
 ### Kurulum Adımları
-1. zip dosyası ... klasörü içine açılır.
-2. IIS üzerinde yeni bir uygulama oluşturularak bu klasöre bağlanır.
+1. InterPacs.Console klasörü C:\inetpub ya da C:\ITP içerisine kopyalayınız.
+2. IIS üzerinde "Default Website" altında yeni bir uygulama oluşturularak bu klasöre bağlanır.
 
 ## Kullanım
 
