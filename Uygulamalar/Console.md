@@ -2,13 +2,14 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-09T13:34:52.649Z
+date: 2023-12-09T13:39:44.978Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
 ---
 
-Uygulamanın tanıtımı ve uzun açıklaması.
+Console uygulaması ImageServer web uygulamasının yeni versiyonudur. 
+ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmıştır.
 
 # Tabs {.tabset}
 ## Sürüm Notları
