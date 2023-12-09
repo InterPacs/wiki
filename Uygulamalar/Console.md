@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-09T14:03:15.982Z
+date: 2023-12-09T14:03:46.774Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -38,7 +38,7 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 2. IIS üzerinde "Default Website" altında yeni bir uygulama oluşturularak bu klasöre bağlayın.
 3. Webconfig dosyasındaki 3 adet veritabanı bağlantı bilgilerini güncelleyin.
 3. Create_NonClustered_Index_for_worklist.sql script dosyasını çalıştırın.
-4. InterPacs.Console veritabanındaki "Instutions" tablosunu KOS gönderimi yapacak tüm partition'lar için doldurun. 
+4. InterPacs.Console veritabanındaki "Institutions" tablosunu KOS gönderimi yapacak tüm partition'lar için doldurun. 
 ## Kullanım
 
 ## Bakım
