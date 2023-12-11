@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-11T11:08:23.246Z
+date: 2023-12-11T11:10:01.952Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -43,7 +43,12 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 6. ImageServerHelper uygulamasındaki kullanıcıları Console uygulamasında tanımlayın.
 7. SQL Reporting Servis kurulumunu yapın.
 ## Kullanım
-- Rapor modülünün çalışması için URL içinde Host değil bilgisayar adı kullanılır. 
+> - Rapor modülünün çalışması için URL içinde Host değil bilgisayar adı kullanılır. 
+{.is-warning}
+
+
+
+
 ## Bakım
 
 ### NOTLAR
