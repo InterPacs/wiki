@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-11T11:06:01.989Z
+date: 2023-12-11T11:06:34.069Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -41,7 +41,7 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 4. Create_NonClustered_Index_for_worklist.sql script dosyasını çalıştırın.
 5. InterPacs.Console veritabanındaki "Institutions" tablosunu KOS gönderimi yapacak tüm partition'lar için doldurun. 
 6. ImageServerHelper uygulamasındaki kullanıcıları Console uygulamasında tanımlayın.
-
+7. SQL Reporting Servis kurulumunu yapın.
 ## Kullanım
 
 ## Bakım
