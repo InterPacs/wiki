@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-11T12:43:51.759Z
+date: 2023-12-11T12:47:06.432Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -46,20 +46,20 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 5. InterPacs.Console veritabanındaki "Institutions" tablosunu KOS gönderimi yapacak tüm partition'lar için doldurun. 
 6. ImageServerHelper uygulamasındaki kullanıcıları Console uygulamasında tanımlayın.
 7. SQL Reporting Servis kurulumunu yapın.
-## Kullanım
-> - Rapor modülünün çalışması için URL içinde Host değil bilgisayar adı kullanılır. 
-{.is-warning}
 
 
-
-
-## Bakım
-
-### NOTLAR
+### Notlar
 - Console uygulamasının kullanımı ile birlikte aşağıdaki uygulamaların kullanımı devre dışı kalacaktır.
 1. InterPacs.TeletipService
 2. ImageServerHelper
 3. InterPacs.RMS veritabanın da yer alan "Institution" tablosu
+
+## Kullanım
+> - Rapor modülünün çalışması için URL içinde Host değil bilgisayar adı kullanılır. 
+{.is-warning}
+
+## Bakım
+
 ## Hata Çözümleri
 
 ### Uygulama Hataları
