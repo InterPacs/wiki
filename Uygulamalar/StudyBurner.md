@@ -2,7 +2,7 @@
 title: Study Burner
 description: Hastanın PACS verilerini medya ortamına aktararak üzerine baskı yapılmasını sağlar
 published: true
-date: 2023-11-23T09:15:40.969Z
+date: 2023-12-13T07:35:45.606Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T13:31:22.507Z
