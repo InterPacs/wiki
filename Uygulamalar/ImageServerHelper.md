@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-12-14T08:57:55.012Z
+date: 2023-12-14T08:58:24.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -66,4 +66,6 @@ dateCreated: 2023-11-03T13:25:36.752Z
 - [T016 Kos Gönderim Hatası - *A DICOM dataset is missing pixel data element.*](/Hatalar/T016)
 {.links-list}
 - [T017 Kos Gönderim Hatası - *Önceki KOS gönderimi ile uyumsuz veri bulunmaktadır.*](/Hatalar/T017)
+{.links-list}
+- [T018 Kos Gönderim Hatası - *Could not load file or assembly 'fo-dicom.core, Version=5.1.0.0.*](/Hatalar/T018)
 {.links-list}
