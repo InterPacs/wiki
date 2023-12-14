@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-12-14T08:52:58.390Z
+date: 2023-12-14T08:57:55.012Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -46,7 +46,7 @@ dateCreated: 2023-11-03T13:25:36.752Z
 {.links-list}
 - [T006 Kos Gönderim Hatası - *Çekim tarihi boş olamaz (DicomTag.StudyDate ve DicomTag.StudyTime etiketleri)*](/Hatalar/T006)
 {.links-list}
-- [T007 Oluşturulacaktır.](/Hatalar/T007)
+- [T007 Kos Gönderim Hatası - *MR ve CT modaliteleri için tetkikler 10 kesitten az olamaz.*](/Hatalar/T007)
 {.links-list}
 - [T008 Kos Gönderim Hatası - *Hastaneye ait aynı StudyInstanceUID'li tetkik ** Accession numarası ile bulunmakta*](/Hatalar/T008)
 {.links-list}
@@ -63,5 +63,7 @@ dateCreated: 2023-11-03T13:25:36.752Z
 {.links-list}
 - [T015 Kos Gönderim Hatası - *An exception was thrown in the rendering pipeline.*](/Hatalar/T015)
 {.links-list}
-- [T016 Kos Gönderim Hatası - *ADICOM dataset is missing pixel data element.*](/Hatalar/T016)
+- [T016 Kos Gönderim Hatası - *A DICOM dataset is missing pixel data element.*](/Hatalar/T016)
+{.links-list}
+- [T017 Kos Gönderim Hatası - *Önceki KOS gönderimi ile uyumsuz veri bulunmaktadır.*](/Hatalar/T017)
 {.links-list}
