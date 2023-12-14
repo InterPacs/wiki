@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-12-14T08:45:20.653Z
+date: 2023-12-14T08:51:56.543Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -55,4 +55,9 @@ dateCreated: 2023-11-03T13:25:36.752Z
 - [T010 Kos Gönderim Hatası - *Invalid value length*](/Hatalar/T010)
 {.links-list}
 - [T011 Kos Gönderim Hatası - *Kos kayıdı esnasına bilinmeyen hata oluştu*](/Hatalar/T011)
+{.links-list}
+- [T012 Kos Gönderim Hatası - *Object reference not set to an instance of an object.*](/Hatalar/T012)
+- [T013 Kos Gönderim Hatası - *Çekim tarihi güncel tarihten büyük olamaz.*](/Hatalar/T013)
+{.links-list}
+- [T014 Kos Gönderim Hatası - *API call failed.*](/Hatalar/T014)
 {.links-list}
