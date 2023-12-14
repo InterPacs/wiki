@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-12-14T08:59:33.058Z
+date: 2023-12-14T09:46:02.985Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -71,5 +71,5 @@ dateCreated: 2023-11-03T13:25:36.752Z
 {.links-list}
 - [T019 Kos Gönderim Hatası - *There is not enough space on the disk.*](/Hatalar/T019)
 {.links-list}
-- [T020 Kos Gönderim Hatası - *Photometric interpretation is unknown.*](/Hatalar/T019)
+- [T020 Kos Gönderim Hatası - *Photometric interpretation is unknown.*](/Hatalar/T020)
 {.links-list}
