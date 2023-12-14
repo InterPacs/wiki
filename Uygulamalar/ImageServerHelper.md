@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-12-14T08:52:29.480Z
+date: 2023-12-14T08:52:58.390Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -62,4 +62,6 @@ dateCreated: 2023-11-03T13:25:36.752Z
 - [T014 Kos Gönderim Hatası - *API call failed.*](/Hatalar/T014)
 {.links-list}
 - [T015 Kos Gönderim Hatası - *An exception was thrown in the rendering pipeline.*](/Hatalar/T015)
+{.links-list}
+- [T016 Kos Gönderim Hatası - *ADICOM dataset is missing pixel data element.*](/Hatalar/T016)
 {.links-list}
