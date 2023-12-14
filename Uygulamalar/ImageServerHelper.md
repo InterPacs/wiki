@@ -2,7 +2,7 @@
 title: Image Server Helper
 description: Teletıp ...
 published: true
-date: 2023-12-14T08:58:24.915Z
+date: 2023-12-14T08:58:48.608Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:25:36.752Z
@@ -68,4 +68,6 @@ dateCreated: 2023-11-03T13:25:36.752Z
 - [T017 Kos Gönderim Hatası - *Önceki KOS gönderimi ile uyumsuz veri bulunmaktadır.*](/Hatalar/T017)
 {.links-list}
 - [T018 Kos Gönderim Hatası - *Could not load file or assembly 'fo-dicom.core, Version=5.1.0.0.*](/Hatalar/T018)
+{.links-list}
+- [T019 Kos Gönderim Hatası - *There is not enough space on the disk.*](/Hatalar/T019)
 {.links-list}
