@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-15T14:22:20.983Z
+date: 2023-12-15T14:32:57.939Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -53,7 +53,8 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 -  >    "Accounts" tablosunda AppId'si ImageServerHelper'ın id'si olan kayıtları Console'un id'si ile değiştirin    
     ![2023-12-15_170126.png](/2023-12-15_170126.png)
 -  >   InterPacs.ImageServerHelper veritabanındaki "Users" tablosundaki kullanıcıları InterPacs.Console veritabanındaki "Users" tablosuna tanımlayın.
-    
+-  > Console uygulamasından kullanıcılara yetki veriniz
+![2023-12-15_173121.png](/2023-12-15_173121.png)
 {.is-info}
 
 7. SQL Reporting Servis kurulumunu yapın.
