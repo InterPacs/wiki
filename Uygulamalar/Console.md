@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-15T14:17:18.422Z
+date: 2023-12-15T14:19:52.511Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -45,14 +45,17 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 4. ***"Create_NonClustered_Index_for_worklist.sql"*** script dosyasını çalıştırın.
 5. InterPacs.Console veritabanındaki "Institutions" tablosunu KOS gönderimi yapacak tüm partition'lar için doldurun. 
 6. ImageServerHelper uygulamasındaki kullanıcıları Console uygulamasında tanımlayın.
-> 	Interpacs.AppServer veritabınında;
->   "Apps" tablosunda ImageserverHelper ve Console uygulamalarının id bilgilerini bulun
+
+	 Interpacs.AppServer veritabınında;
+
+
+1. >   "Apps" tablosunda ImageserverHelper ve Console uygulamalarının id bilgilerini bulun
 		![2023-12-15_161733.png](/2023-12-15_161733.png)
->   "AccountGroups" tablosunda AppId'si ImageServerHelper'ın id'si olan kayıtları Console'un id'si ile değiştirin ve İsimlerin başına "Helper" ifadesini ekleyin
+1. >   "AccountGroups" tablosunda AppId'si ImageServerHelper'ın id'si olan kayıtları Console'un id'si ile değiştirin ve İsimlerin başına "Helper" ifadesini ekleyin
 		![2023-12-15_164717.png](/2023-12-15_164717.png)
->    "Accounts" tablosunda AppId'si ImageServerHelper'ın id'si olan kayıtları Console'un id'si ile değiştirin    
+1. >    "Accounts" tablosunda AppId'si ImageServerHelper'ın id'si olan kayıtları Console'un id'si ile değiştirin    
     ![2023-12-15_170126.png](/2023-12-15_170126.png)
->   InterPacs.ImageServerHelper veritabanındaki "Users" tablosundaki kullanıcıları InterPacs.Console veritabanındaki "Users" tablosuna tanımlayın.
+1. >   InterPacs.ImageServerHelper veritabanındaki "Users" tablosundaki kullanıcıları InterPacs.Console veritabanındaki "Users" tablosuna tanımlayın.
     
 {.is-info}
 
