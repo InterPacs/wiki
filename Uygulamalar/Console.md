@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-18T12:05:10.244Z
+date: 2023-12-18T12:05:32.433Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -43,14 +43,14 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 2. IIS üzerinde "Default Website" altında yeni bir uygulama oluşturularak bu klasöre bağlayın.
 3. Webconfig dosyasındaki 3 adet veritabanı bağlantı bilgilerini güncelleyin.
 4. https://localhost/InterPacs.Console bağlantısı ile çalıştırıp kurulumu tamamlayın.
-4. ***"Create_NonClustered_Index_for_worklist.sql"*** script dosyasını çalıştırın.
-5. InterPacs.Console veritabanındaki "Institutions" tablosunu KOS gönderimi yapacak tüm partition'lar için doldurun. 
-6. ImageServerHelper uygulamasındaki kullanıcıları Console uygulamasına taşımak için ***"MoveUsers.sql"*** script dosyasını çalıştırın.
+5. ***"Create_NonClustered_Index_for_worklist.sql"*** script dosyasını çalıştırın.
+6. InterPacs.Console veritabanındaki "Institutions" tablosunu KOS gönderimi yapacak tüm partition'lar için doldurun. 
+7. ImageServerHelper uygulamasındaki kullanıcıları Console uygulamasına taşımak için ***"MoveUsers.sql"*** script dosyasını çalıştırın.
 
-7. Console uygulamasından ImageServerHelper'dan taşınan kullanıcılara yetki veriniz
+8. Console uygulamasından ImageServerHelper'dan taşınan kullanıcılara yetki veriniz
 ![2023-12-15_173121.png](/2023-12-15_173121.png)
 
-7. SQL Reporting Servis kurulumunu yapın.
+9. SQL Reporting Servis kurulumunu yapın.
 
 
 ### Notlar
