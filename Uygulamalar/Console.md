@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-18T12:05:32.433Z
+date: 2023-12-19T11:50:13.773Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -41,7 +41,7 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 ### Kurulum Adımları
 1. InterPacs.Console klasörü C:\inetpub ya da C:\ITP içerisine kopyalayın.
 2. IIS üzerinde "Default Website" altında yeni bir uygulama oluşturularak bu klasöre bağlayın.
-3. Webconfig dosyasındaki 3 adet veritabanı bağlantı bilgilerini güncelleyin.
+3. Webconfig dosyasındaki 4 adet veritabanı bağlantı bilgilerini güncelleyin.
 4. https://localhost/InterPacs.Console bağlantısı ile çalıştırıp kurulumu tamamlayın.
 5. ***"Create_NonClustered_Index_for_worklist.sql"*** script dosyasını çalıştırın.
 6. InterPacs.Console veritabanındaki "Institutions" tablosunu KOS gönderimi yapacak tüm partition'lar için doldurun. 
