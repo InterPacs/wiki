@@ -2,7 +2,7 @@
 title: Application Server
 description: InterPacs uygulamalarının kimlik doğrulama, yetkilendirme gibi ihtiyaçlarını karşılayan servis.
 published: true
-date: 2023-11-18T17:52:28.922Z
+date: 2024-01-10T11:10:27.777Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-13T10:45:16.073Z
@@ -29,7 +29,9 @@ dateCreated: 2023-11-13T10:45:16.073Z
 - Uygulama kapatılır ve windows servislerinden InterPacs App Server hizmeti başlatılır.
 
 ## Kullanım
-
+- AppServer InterPacs'ın geliştirdiği diğer programlar için bir altyapı oluşturmaktadır. Kimlik doğrulama, yetkilendirme gibi hazır hizmetleri diğer programların kullanımına sunmaktadır.
+- Diğer programlar ilk açılışlarında AppServer kurulumlarını tamamlamak için ilk oturumlarını AppServer yönetici hesabı ile açmalılar. AppServer yönetici hesabı ile oturum açıldığında diğer program AppServer sistemine kurulmuş olur. Bu sayede diğer programın default hesap grupları, hesapları, yetkileri otomatik olarak oluşturulur.
+- Diğer programın ilk kurulumundan sonra güncelleme ile yetkilerinin değiştirilmesi durumunda, yetkilerin AppServer tarafında güncellenmesi için bir kere AppServer yönetici hesabı ile oturum açılması gerekir.
 ## Bakım
 
 ## Hata Çözümleri
