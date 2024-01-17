@@ -2,7 +2,7 @@
 title: Dicom Viewer 
 description: Masaüstü Viewer
 published: true
-date: 2023-11-23T12:27:55.769Z
+date: 2024-01-17T08:25:25.012Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-23T08:11:15.539Z
@@ -31,7 +31,9 @@ dateCreated: 2023-11-23T08:11:15.539Z
 
 ## Kullanım
 - [Sunucu Ekleme - *Bir dicom sunucusuna bağlanmak için sunucu ekleme.*](/Uygulamalar/DicomViewer/K001)
+- [Gelişmiş Ayarlar - *Gelişmiş ayarların açıklamaları.*](/Uygulamalar/DicomViewer/GelişmişAyarlar)
 {.links-list}
+
 ## Bakım
 ## Hata Çözümleri
 
