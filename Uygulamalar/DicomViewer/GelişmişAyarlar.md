@@ -2,7 +2,7 @@
 title: Gelişmiş Ayarlar
 description: İleri seviye ayarlar ve açıklamaları
 published: true
-date: 2024-01-17T08:51:30.997Z
+date: 2024-01-17T09:04:40.913Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-17T08:27:01.237Z
@@ -21,6 +21,8 @@ Bir değişiklik yapıldıktan sonra kaydet düğmesine basılarak değişiklikl
 ![settings_editor3.png](/dicomviewergoruntu/settings_editor3.png)
 
 ## InterPacs.ImageViewer.Volume.Mpr.MprSettings
-- Explodable Kullanılabilecek değerler: True, False
+
+- `Explodable: False`
+`[True, False]`
 MPR yapıldığı sırada bölmelerden herhangi birini geçici olarak tam ekran yapabilmemizi sağlar. X tuşu yada çift tıklama ile aktif edilebilir.
 
