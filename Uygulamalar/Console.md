@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2024-01-24T10:11:04.563Z
+date: 2024-01-24T10:12:19.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -64,6 +64,8 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 1. InterPacs.TeletipService
 2. ImageServerHelper
 3. InterPacs.RMS veritabanın da yer alan "Institution" tablosu
+
+## Güncelleme
 
 ## Kullanım
 > - Rapor modülünün çalışması için URL içinde Host değil bilgisayar adı kullanılır. 
