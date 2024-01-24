@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2024-01-24T10:07:40.249Z
+date: 2024-01-24T10:09:54.935Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -34,7 +34,7 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 
 
 ## Kurulum
-
+NOT: Console uygulamasının sıfırdan kurulumunda hangi versiyon olursa olsun aşağıdaki yönergeleri uygulayınız.
 ### Gereksinimler
 > [App Server](/Uygulamalar/AppServer) kurulu ve erişilebilir olmak zorundadır.
 {.is-warning}
