@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2023-12-19T11:50:13.773Z
+date: 2024-01-24T10:07:40.249Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -26,7 +26,11 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 >  - "Dosya Sistemleri" ekranı eklenmiştir.
 > 
 {.is-info}
-
+### v1.1.0
+>  - Worklist Tool ekranı eklendi. Worklist test işlemleri için kullanılacaktır.
+>  - "Teletıp" ekranında tespit edilmiş bug giderildi.
+> 
+{.is-info}
 
 
 ## Kurulum
