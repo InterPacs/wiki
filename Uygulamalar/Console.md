@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2024-01-24T10:14:22.951Z
+date: 2024-01-25T10:11:48.486Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -66,7 +66,7 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 3. InterPacs.RMS veritabanın da yer alan "Institution" tablosu
 
 ## Güncelleme
-> - Versiyon 1.1.0 versiyonuna güncelleme yapmak için web.config dosyası hariç geri kalan dosyaları mevcut versiyonun için kopyala yapıştır yapın.
+> - Versiyon 1.1.0 versiyonuna güncelleme yapmak "InterPacs.Console_v1.1.0" klasörü içinde yer alan web.config dosyası hariç geri kalan dosyaları mevcut versiyonun için kopyala yapıştır yapın.
 {.is-info}
 
 ## Kullanım
