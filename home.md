@@ -2,7 +2,7 @@
 title: InterPacs Wiki
 description: InterPacs uygulamalarının kurulum, kullanım ve hata çözüm kılavuzları
 published: true
-date: 2023-12-13T07:42:47.884Z
+date: 2024-01-29T08:11:29.009Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
@@ -25,6 +25,8 @@ InterPacs tarafından geliştirilen ana uygulamalar bu bölümün altında bulun
 - [Study Burner *Dicom verilerini medya ortamına aktararak hastane ve hasta verilerini üzerine basan uygulama.*](/Uygulamalar/StudyBurner)
 - [Web Viewer (OHIF) *Web sitesi üzerinden çalışan dicom görüntüleyici.*](/Uygulamalar/WebViewerOHIF)
 - [Image Server Helper *Teletıp süreçlerini yönetir*](/Uygulamalar/ImageServerHelper)
+- [CaptureDevice *Kamera ile görüntü alınan cihazları yönetir.*](/Uygulamalar/CaptureDevice)
+
 {.links-list}
 
 # Yardımcı Uygulamalar
