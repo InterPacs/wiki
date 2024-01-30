@@ -2,7 +2,7 @@
 title: InterPacs Wiki
 description: InterPacs uygulamalarının kurulum, kullanım ve hata çözüm kılavuzları
 published: true
-date: 2024-01-29T08:11:29.009Z
+date: 2024-01-30T10:33:51.038Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
@@ -37,4 +37,4 @@ Ana uygulamalara yardımcı uygulamalar bu bölümün altında bulunur.
 - [Application Selector *Web üzerinden gelen isteklerin masaüstü uygulamalarına aktarılmasını sağlar.*](/Yardimci-Uygulamalar/AppSelector)
 {.links-list}
 
-![](/logo600x250.png){.align-abstopright}
+![](/logo-alt.png){.align-abstopright}
