@@ -2,7 +2,7 @@
 title: Uygulama Güncelleme
 description: Uygulamaları güncelleme sunucusuna entegre etme
 published: true
-date: 2024-01-30T22:19:02.295Z
+date: 2024-01-31T11:48:06.353Z
 tags: dev, update
 editor: markdown
 dateCreated: 2024-01-30T14:10:06.659Z
@@ -72,7 +72,7 @@ Paketleme işlemi hem kurulum paketi oluşturmak için hemde güncelleme paketi 
 - Edit Metadata ile uygulamamızın temel bilgilerini giriyoruz
 - Id kısmına boşluksuz uygulama adını yazıyoruz (örnek: InterPacs.AppServer)
 - Version kısmına uygulamanın versiyonununu yazıyoruz
-- Package contents kısmına önce `lib` klasörünü ekliyoruz altına ise uygulamanız hangi .net versiyonunu kullırsa kullansın `net45` klasörünü ekliyoruz
+- Package contents kısmına önce `lib` klasörünü ekliyoruz altına ise uygulamanız hangi .net versiyonunu kullanırsa kullansın `net45` klasörünü ekliyoruz
 - Uygulamanızın release edilmiş halindeki gerekli tüm dosyaları `net45` klasörünün altına ekliyoruz
 - Son olarak nuget paketini uygulamamızın .sln dosyasının yanına kaydediyoruz
 
