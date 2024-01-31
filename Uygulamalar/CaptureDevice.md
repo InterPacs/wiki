@@ -2,7 +2,7 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-01-29T08:13:49.234Z
+date: 2024-01-31T07:12:50.984Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z
@@ -20,6 +20,8 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 
 ## Kurulum
 
+
+
 ### Gereksinimler
 > [App Server](/Uygulamalar/AppServer) kurulu ve erişilebilir olmak zorundadır.
 {.is-warning}
@@ -31,7 +33,10 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 1. zip dosyası ... klasörü içine açılır.
 2. IIS üzerinde yeni bir uygulama oluşturularak bu klasöre bağlanır.
 
+
 ## Kullanım
+
+[endo_klavuz.pdf](/endo_klavuz.pdf)
 
 ## Bakım
 
