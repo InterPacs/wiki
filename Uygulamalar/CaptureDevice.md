@@ -2,14 +2,14 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-01-31T11:01:00.918Z
+date: 2024-01-31T11:20:04.139Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z
 ---
 
 Uygulamanın tanıtımı ve uzun açıklaması.
-
+InterPacs.CaptureDevice uygulaması Gastroenteroloji bölümündeki işlemlerde görüntü ve video alınmasını sağlayıp bunların PACS'a gönderilmesini ve bu işleme ait raporların yazılmasını sağlayan uygulamadır.
 # Tabs {.tabset}
 ## Sürüm Notları
 ### v1.0.0
@@ -24,7 +24,7 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 
 ### Gereksinimler
 Windows 10 ve üstü olmalıdır
-
+SQL Server 2016 ve üstü kurulmalıdır
 
 ### Kurulum Adımları
 1. Setup kurulumu yapılır
