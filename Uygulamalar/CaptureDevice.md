@@ -2,7 +2,7 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-01-31T11:20:04.139Z
+date: 2024-01-31T12:02:44.823Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z
@@ -38,7 +38,7 @@ SQL Server 2016 ve üstü kurulmalıdır
 
 ## Kullanım
 
-[endo_klavuz.pdf](/endo_klavuz.pdf)
+[endoskopi_klavuz.pdf](/endoskopi_klavuz.pdf)
 
 ## Bakım
 
