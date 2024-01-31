@@ -2,7 +2,7 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-01-31T07:12:50.984Z
+date: 2024-01-31T11:01:00.918Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z
@@ -23,15 +23,17 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 
 
 ### Gereksinimler
-> [App Server](/Uygulamalar/AppServer) kurulu ve erişilebilir olmak zorundadır.
-{.is-warning}
+Windows 10 ve üstü olmalıdır
 
-> InterPacs.Logs veritabanı kurulu ve erişilebilir olmak zorundadır.
-{.is-warning}
 
 ### Kurulum Adımları
-1. zip dosyası ... klasörü içine açılır.
-2. IIS üzerinde yeni bir uygulama oluşturularak bu klasöre bağlanır.
+1. Setup kurulumu yapılır
+2. Editor klasörü kurulum yapılan path'e kopyalanır
+3. phantom.js klasörü yoksa kurulum yapılan path'e kopyalanır.
+4. x64 klasörünün içeriği kurulum yapılan path'e kopyalanır.
+5. ffmpeg.exe dosyası kurulum yapılan path'e kopyalanır.
+6. HID exe çalıştırılır ve oluşan id ile lisans verilir
+7. Oluşturulan lisans kurulum yapılan path'e kopyalanır.
 
 
 ## Kullanım
@@ -43,6 +45,7 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 ## Hata Çözümleri
 
 ### Uygulama Hataları
+
 
 ### Uygulama Dışı Hatalar
 
