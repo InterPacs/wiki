@@ -2,7 +2,7 @@
 title: Application Server
 description: InterPacs uygulamalarının kimlik doğrulama, yetkilendirme gibi ihtiyaçlarını karşılayan servis.
 published: true
-date: 2024-02-05T05:44:39.407Z
+date: 2024-02-05T05:57:11.386Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-13T10:45:16.073Z
@@ -10,6 +10,11 @@ dateCreated: 2023-11-13T10:45:16.073Z
 
 # Tabs {.tabset}
 ## Sürüm Notları
+### v1.1.0
+- Session timeout özelliğinin default olarak sınırsız olması sağlandı
+- Settings tablosu eklendi fakat henüz kullanılabilir değil
+### v1.0.1
+- İlk yayınlanan sürüm
 ## Kurulum
 ### Gereksinimler
 > [Lisans](/Yardımcı-Uygulamalar/Lisans) verilmesi zorunludur.
@@ -28,10 +33,23 @@ dateCreated: 2023-11-13T10:45:16.073Z
 - Main sekmesinden **Start App Server** düğmesine basılarak servis ilk defa çalıştırılır ve veritabanı otomatik olarak oluşur.
 - Uygulama kapatılır ve windows servislerinden InterPacs App Server hizmeti başlatılır.
 
+### v1.0.1 den v1.1.0'a yükseltme
+- Program ekle kaldırdan uygulama kaldırılır
+- AppServer veritabanındaki `_Migrations` tablosu temizlenir
+- v1.1.0 setup paketinden kurulur
+- `SVN/Releases/InterPacs.AppServer` klasöründeki `1.1.0_Migration.sql` dosyasındaki sql cümlesi çalıştırılır
+- Kurulum klasöründeki InterPacs.AppServer.DebugForm uygulaması çalıştırılır.
+- Certificates sekmesinden uygun bir SSL sertifikası seçilerek **Bind port to certificate** düğmesine basılır.
+- Uygulama kapatılır ve windows servislerinden InterPacs App Server hizmeti başlatılır.
+
 ## Kullanım
-- AppServer InterPacs'ın geliştirdiği diğer programlar için bir altyapı oluşturmaktadır. Kimlik doğrulama, yetkilendirme gibi hazır hizmetleri diğer programların kullanımına sunmaktadır.
-- Diğer programlar ilk açılışlarında AppServer kurulumlarını tamamlamak için ilk oturumlarını AppServer yönetici hesabı ile açmalılar. AppServer yönetici hesabı ile oturum açıldığında diğer program AppServer sistemine kurulmuş olur. Bu sayede diğer programın default hesap grupları, hesapları, yetkileri otomatik olarak oluşturulur.
-- Diğer programın ilk kurulumundan sonra güncelleme ile yetkilerinin değiştirilmesi durumunda, yetkilerin AppServer tarafında güncellenmesi için bir kere AppServer yönetici hesabı ile oturum açılması gerekir.
+AppServer InterPacs'ın geliştirdiği diğer programlar için bir altyapı oluşturmaktadır. Kimlik doğrulama, yetkilendirme gibi hazır hizmetleri diğer programların kullanımına sunmaktadır.
+
+### Diğer Program Kurulumu
+Diğer programlar ilk açılışlarında AppServer kurulumlarını tamamlamak için ilk oturumlarını AppServer yönetici hesabı ile açmalılar. AppServer yönetici hesabı ile oturum açıldığında diğer program AppServer sistemine kurulmuş olur. Bu sayede diğer programın default hesap grupları, hesapları, yetkileri otomatik olarak oluşturulur.
+
+### Yeni Yetkiler Eklenmesi
+Diğer programın ilk kurulumundan sonra güncelleme ile yetkilerinin değiştirilmesi durumunda, yetkilerin AppServer tarafında güncellenmesi için bir kere AppServer yönetici hesabı ile oturum açılması gerekir.
 ## Bakım
 
 ## Hata Çözümleri
