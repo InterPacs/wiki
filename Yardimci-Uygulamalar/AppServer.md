@@ -2,7 +2,7 @@
 title: Application Server
 description: InterPacs uygulamalarının kimlik doğrulama, yetkilendirme gibi ihtiyaçlarını karşılayan servis.
 published: true
-date: 2024-01-10T11:10:27.777Z
+date: 2024-02-05T05:44:39.407Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-13T10:45:16.073Z
@@ -36,4 +36,5 @@ dateCreated: 2023-11-13T10:45:16.073Z
 
 ## Hata Çözümleri
 - [APPSRV001 Session timeout.]() Uygulamanızdan başarılı bir şekilde oturum açıldıktan sonra session timeout hatası ile karşılaşılır. Uygulamayı HTTPS üzerinden çalıştırdığınıza emin olun.
+- [APPSRV002 Permission request failed.]() Oturum açıldıktan hemen sonra yetkilerin alınması için otomatik yapılan /Permission isteği başarısız olur. AppServer'ın 1.0.1 den daha yüksek bir versiyon olduğuna emin olun.
 {.links-list}
