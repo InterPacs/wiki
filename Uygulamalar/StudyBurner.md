@@ -2,13 +2,33 @@
 title: Study Burner
 description: Hastanın PACS verilerini medya ortamına aktararak üzerine baskı yapılmasını sağlar
 published: true
-date: 2024-01-30T10:31:44.514Z
+date: 2024-02-14T10:27:50.094Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T13:31:22.507Z
 ---
 
 Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki hasta verilerini medya ortamına aktarır ve üzerine hastane, hasta, çekim bilgilerini yazar.
+
+# Özellikler
+- Modalitelerden veya PACS sunucularından gönderilen çekimleri basabilir.
+- Belirli bir süre içerisinde aynı hastanın birden fazla çekimi gönderilirse aynı CD/ DVD’ ye bu çekimleri basabilir. Eğer CD/DVD' ye sığmazsa ikinci CD/DVD' ye basabilir.
+- İstenildiği kadar PACS sunucusu tanıtılabilir.
+- PACS sunucularından hastaları listeleyip istenilen hastayı basabilir.
+- Çekimleri aynı CD/DVD' ye basabilir sığmayanları farklı CD/DVD' ye basabilir.
+- Kopya sayısı verilebilir.
+- CD'nin içerisine Synedra, ClearCanvas, Hipax viewer ya da hastanenin istediği lisans sorunu olmayan tüm marka Cd viewer koyulabilir.
+- Yapılan baskılar belirlenen gün sayısı kadar bilgisayar üzerinde hazır bekletilir ve tekrar baskı yapılabilir. Gün sayısı dolduğunda otomatik olarak silinir.
+- İşler kuyrukta bekletilir. Sırası gelen baskıya geçer. Kuyruktaki işlerin öncelikleri değiştirilebilir. Bekleyen işler iptal edilebilir.
+- İşin boyutu CD'ye sığmazsa iş beklemeye geçer ve daha büyük medya ister. Kuyruktaki diğer işleri basmaya devam eder.
+- Cihazdaki boş medya sayıları, mürekkep, ribbon durumları ekrandan izlenebilir.
+- Rimage 2000i, 5410N, 3400, 2410 Allegro 100 ve Epson PP100 cihazları ile çalışabilir.
+- Web tabanlı olduğu için aynı ağ üzerinde farklı bilgisayarlardan ulaşılıp baskı yapılabilir.
+- Tablet veya telefonlar üzerinden de bağlanılarak baskı yapılabilir.
+- Web üzerinden robotun ve işlerin durumu gerçek zamanlı olarak izlenebilir. (HTML5 Socket bağlantısı ile)
+- Aynı anda birden fazla Rimage yada Epson cihaz ile çalışabilir. (Ek cihazlar için lisans gerektirir)
+- Rimage ve Epson PP-50, PP-100, PP-100II, PP-100III, PP-100N cihazları ile çalışabilir.
+
 
 # Tabs {.tabset}
 
