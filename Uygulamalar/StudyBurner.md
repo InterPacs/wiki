@@ -2,7 +2,7 @@
 title: Study Burner
 description: Hastanın PACS verilerini medya ortamına aktararak üzerine baskı yapılmasını sağlar
 published: true
-date: 2024-02-14T10:27:50.094Z
+date: 2024-02-14T10:35:24.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T13:31:22.507Z
@@ -83,6 +83,12 @@ Rimage ve Epson marka CD Robot cihazları ile entegre olarak PACS sunucusundaki 
 
 ## Kurulum
 ### Gereksinimler
+> Bilgisayarın işletim sistemi Windows 7 veya üzeri olmalıdır fakat Windows 10 ve üzeri olması önerilir.
+{.is-warning}
+
+> Bilgisayarın işletim sistemi 1.3.2 versiyonuna kadar 32bit veya 64bit, sonraki versiyonlar için 64bit olmak zorundadır.
+{.is-warning}
+
 > IIS kurulu olmak zorundadır. Kurulurken Metatabanı uyumluluğu seçilmelidir.
 {.is-warning}
 #### Rimage
