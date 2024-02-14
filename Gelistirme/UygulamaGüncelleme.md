@@ -2,8 +2,8 @@
 title: Uygulama Güncelleme
 description: Uygulamaları güncelleme sunucusuna entegre etme
 published: true
-date: 2024-02-02T08:34:40.292Z
-tags: dev, update
+date: 2024-02-02T08:34:44.541Z
+tags: update, dev
 editor: markdown
 dateCreated: 2024-01-30T14:10:06.659Z
 ---

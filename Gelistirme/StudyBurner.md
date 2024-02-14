@@ -2,7 +2,7 @@
 title: Study Burner Geliştirme Notları
 description: 
 published: true
-date: 2023-11-16T14:16:43.122Z
+date: 2023-11-16T14:16:45.832Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-16T14:16:30.696Z

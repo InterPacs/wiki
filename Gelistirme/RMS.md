@@ -2,7 +2,7 @@
 title: Radiology Management System
 description: Geliştirme notları
 published: true
-date: 2023-11-23T08:54:56.750Z
+date: 2023-11-23T08:54:59.330Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T08:54:56.750Z

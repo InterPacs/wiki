@@ -2,7 +2,7 @@
 title: AppSel001
 description: Uygulamanın açılması çok uzun sürdü
 published: true
-date: 2023-11-16T11:00:04.221Z
+date: 2023-11-16T11:00:06.863Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T11:00:04.221Z

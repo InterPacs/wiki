@@ -2,7 +2,7 @@
 title: Gelişmiş Ayarlar
 description: İleri seviye ayarlar ve açıklamaları
 published: true
-date: 2024-01-17T09:04:40.913Z
+date: 2024-01-17T09:04:44.011Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-17T08:27:01.237Z

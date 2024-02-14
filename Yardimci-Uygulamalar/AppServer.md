@@ -2,7 +2,7 @@
 title: Application Server
 description: InterPacs uygulamalarının kimlik doğrulama, yetkilendirme gibi ihtiyaçlarını karşılayan servis.
 published: true
-date: 2024-02-05T05:57:11.386Z
+date: 2024-02-05T05:57:14.160Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-13T10:45:16.073Z

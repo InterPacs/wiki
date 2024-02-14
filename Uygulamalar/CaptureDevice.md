@@ -2,7 +2,7 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-02-06T09:43:12.759Z
+date: 2024-02-06T09:43:16.634Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z

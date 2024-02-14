@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2024-01-25T10:11:48.486Z
+date: 2024-01-25T10:11:52.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z

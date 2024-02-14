@@ -2,7 +2,7 @@
 title: Dicom Viewer 
 description: Masaüstü Viewer
 published: true
-date: 2024-01-17T08:25:25.012Z
+date: 2024-01-17T08:27:10.070Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-23T08:11:15.539Z

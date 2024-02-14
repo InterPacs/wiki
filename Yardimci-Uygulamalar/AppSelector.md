@@ -2,7 +2,7 @@
 title: Application Selector
 description: Web uygulamaları tarafından gelen istekleri InterPacs uygulamalarına gönderir
 published: true
-date: 2023-11-18T17:56:48.035Z
+date: 2023-11-18T17:56:50.978Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T10:53:30.317Z

@@ -2,7 +2,7 @@
 title: Uygulama Şablonu
 description: Uygulama kısa açıklama
 published: true
-date: 2023-11-18T17:59:50.279Z
+date: 2023-11-18T17:59:52.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T10:19:21.852Z
