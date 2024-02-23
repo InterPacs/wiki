@@ -2,7 +2,7 @@
 title: Console
 description: Uygulama kısa açıklama
 published: true
-date: 2024-02-23T10:12:26.844Z
+date: 2024-02-23T10:13:33.146Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T13:34:52.649Z
@@ -67,7 +67,7 @@ ImageServerHelper uygulamasındaki KOS takip ekranı bu uygulamaya taşınmışt
 
 ## Güncelleme
 > - Versiyon 1.1.0 versiyonuna güncelleme yapmak "InterPacs.Console_v1.1.0" klasörü içinde yer alan web.config dosyası hariç geri kalan dosyaları mevcut versiyonun için kopyala yapıştır yapın.
-> - Worklist'in Host bilgisine göre çalışan kurumlarda "Interpacs.RMS" veritabanındaki Worklist tablosuna aşağıdaki bilgilerle sanal bir cihaz tanımlaması yapılmalıdır.
+> - Worklist'in Host bilgisine göre çalışan kurumlarda "Interpacs.RMS" veritabanındaki Modality tablosuna aşağıdaki bilgilerle sanal bir cihaz tanımlaması yapılmalıdır.
 
 >ModalityId: 999
 AET: VirtualAE
