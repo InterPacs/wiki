@@ -2,7 +2,7 @@
 title: Dicom Viewer
 description: Geliştirme Notları
 published: true
-date: 2024-01-30T13:41:02.973Z
+date: 2024-02-27T07:37:43.464Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T09:07:21.808Z
@@ -41,7 +41,3 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 ### Uygulama Hataları
 
 ### Uygulama Dışı Hatalar
-
-#
-
-[Geliştirme Notları](/Gelistirme/Uygulama-Adi)
