@@ -2,7 +2,7 @@
 title: Dicom Viewer
 description: Geliştirme Notları
 published: true
-date: 2024-02-28T08:35:04.354Z
+date: 2024-02-28T08:39:30.661Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T09:07:21.808Z
@@ -26,5 +26,12 @@ ClearCanvas tarafından oluşturulmuş `.proj` uzantılı otomasyon dosyaların�
 
 ## ImageViewer.proj
 
+- `Configuration` Debug, Release
 - `DistributionBuild` true, false
-- `PROCESSOR_ARCHITECTURE` AMD64, x86
+- `PROCESSOR_ARCHITECTURE` IA64, AMD64, x86
+- `PackageOption`
+	ThinEnterprise
+  NormalEnterprise
+  Thin
+  Normal
+  
