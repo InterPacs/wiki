@@ -2,7 +2,7 @@
 title: Dicom Viewer
 description: Geliştirme Notları
 published: true
-date: 2024-02-28T11:36:40.458Z
+date: 2024-02-28T11:43:58.911Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T09:07:21.808Z
@@ -49,6 +49,10 @@ ClearCanvas tarafından oluşturulmuş `.proj` uzantılı otomasyon dosyaların�
 ### Bazı proj dosyalarının ilişkileri
 * `PostBuild_dist.proj` Bazı projelerde build öncesi devreye giriyor
 
+* `Ris.proj`
+	* `RisClient.proj`
+  * `RisServer.proj`
+  
 
 * `RisServer_dist.proj`
 * `RisServerManifest.proj`
