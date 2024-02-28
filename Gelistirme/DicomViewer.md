@@ -2,7 +2,7 @@
 title: Dicom Viewer
 description: Geliştirme Notları
 published: true
-date: 2024-02-28T12:25:44.147Z
+date: 2024-02-28T12:29:17.711Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T09:07:21.808Z
@@ -45,6 +45,22 @@ ClearCanvas tarafından oluşturulmuş `.proj` uzantılı otomasyon dosyaların�
 - `Password`
 - `ManifestFiles`
 - `OptionsFlags`
+	- `ExcludeExplorer`
+  - `ExcludeDesktopServices`
+  - `ExcludeStudyComposer`
+  - `ExcludeDicomEditor`
+  - `ExcludeStudyFilters`
+  - `ExcludeReporting`
+  - `ExcludeHelpUpdate`
+  - `ExcludeDatabase`
+  - `ExcludeDicomRemote`
+  - `ExcludeStreaming`
+  - `ExcludeMpr`
+  - `ExcludeFusion`
+  - `ExcludeExternals`
+  - `ExcludeSynchronizationTools`
+  - `ExcludeEnterprise`
+  - `ExcludeHelpFiles`
 
 ### Bazı proj dosyalarının ilişkileri
 * `PostBuild_dist.proj` Bazı projelerde build öncesi devreye giriyor
