@@ -2,7 +2,7 @@
 title: Dicom Viewer
 description: Geliştirme Notları
 published: true
-date: 2024-02-28T11:47:03.455Z
+date: 2024-02-28T12:25:44.147Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T09:07:21.808Z
@@ -35,16 +35,16 @@ ClearCanvas tarafından oluşturulmuş `.proj` uzantılı otomasyon dosyaların�
 - `Configuration` Debug, Release
 - `DistributionBuild` true, false
 - `PROCESSOR_ARCHITECTURE` IA64, AMD64, x86
-- `PackageOption`
-	ThinEnterprise
-  NormalEnterprise
-  Thin
-  Normal
+- `PackageOption` ThinEnterprise, NormalEnterprise, Thin, Normal
 - `KeyFile` Key dosyası verildiğinde exe'yi imzalıyormuş
 
 ## ImageViewerManifest.proj
 
 - `DistributionDirectory`
+- `Certificate`
+- `Password`
+- `ManifestFiles`
+- `OptionsFlags`
 
 ### Bazı proj dosyalarının ilişkileri
 * `PostBuild_dist.proj` Bazı projelerde build öncesi devreye giriyor
