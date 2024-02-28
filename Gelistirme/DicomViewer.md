@@ -2,7 +2,7 @@
 title: Dicom Viewer
 description: Geliştirme Notları
 published: true
-date: 2024-02-28T08:39:30.661Z
+date: 2024-02-28T10:26:57.116Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T09:07:21.808Z
@@ -34,4 +34,5 @@ ClearCanvas tarafından oluşturulmuş `.proj` uzantılı otomasyon dosyaların�
   NormalEnterprise
   Thin
   Normal
+- `KeyFile`
   
