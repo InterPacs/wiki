@@ -2,7 +2,7 @@
 title: InterPacs Wiki
 description: InterPacs uygulamalarının kurulum, kullanım ve hata çözüm kılavuzları
 published: true
-date: 2024-02-28T10:53:15.668Z
+date: 2024-02-28T10:54:57.537Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:22:35.311Z
@@ -26,7 +26,7 @@ InterPacs tarafından geliştirilen ana uygulamalar bu bölümün altında bulun
 - [Web Viewer (OHIF) *Web sitesi üzerinden çalışan dicom görüntüleyici.*](/Uygulamalar/WebViewerOHIF)
 - [Image Server Helper *Teletıp süreçlerini yönetir*](/Uygulamalar/ImageServerHelper)
 - [CaptureDevice *Kamera ile görüntü alınan cihazları yönetir.*](/Uygulamalar/CaptureDevice)
-- [InterPacs.Viewer *Web viewer.*](/Uygulamalar/InterPacs.Viewer)
+- [InterPacs.Viewer *Web viewer.*](/Uygulamalar/InterPacsViewer)
 
 {.links-list}
 
