@@ -2,7 +2,7 @@
 title: Dicom Viewer
 description: Geliştirme Notları
 published: true
-date: 2024-02-28T10:26:57.116Z
+date: 2024-02-28T11:36:40.458Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T09:07:21.808Z
@@ -22,7 +22,13 @@ dateCreated: 2023-11-23T09:07:21.808Z
 ## Proj Otomasyon Dosyaları
 ClearCanvas tarafından oluşturulmuş `.proj` uzantılı otomasyon dosyalarını çalıştırmak için örnek komut satırı aşağıdadır. Parametreler ve ne işe yaradıkları keşfedildikçe dokümana eklenecektir.
 
-`msbuild.exe ImageViewer.proj /p:DistributionBuild=true`
+`msbuild.exe ImageViewer.proj /p:DistributionBuild=true,param2=value`
+
+## ImageViewer_dist.proj
+- `DesktopBuild` true, false
+- `ShredHostBuild` true, false
+- `ConsoleBuild` true, false
+
 
 ## ImageViewer.proj
 
@@ -34,5 +40,26 @@ ClearCanvas tarafından oluşturulmuş `.proj` uzantılı otomasyon dosyaların�
   NormalEnterprise
   Thin
   Normal
-- `KeyFile`
+- `KeyFile` Key dosyası verildiğinde exe'yi imzalıyormuş
+
+## ImageViewerManifest.proj
+
+- `DistributionDirectory`
+
+### Bazı proj dosyalarının ilişkileri
+* `PostBuild_dist.proj` Bazı projelerde build öncesi devreye giriyor
+
+
+* `RisServer_dist.proj`
+* `RisServerManifest.proj`
+
+* `Calendar_dist.proj`
+	* `ImageViewer_dist.proj`
   
+* `RisClient_NativeViewer_dist.proj`
+	* `RisClient_dist.proj`
+	* `ImageViewer_dist.proj`
+  
+
+* `ImageViewerSamples_dist.proj`
+	* `ImageViewer_dist.proj`
