@@ -2,14 +2,16 @@
 title: Retrieve Images
 description: Görüntülerin Fiziksel Olarak İndirilmesi
 published: true
-date: 2024-03-14T11:08:41.660Z
+date: 2024-03-14T11:08:59.883Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-14T10:37:18.768Z
 ---
 
 # Açıklama
-Eğer görüntüleri fiziksel olarak indirmek istiyorsanız alttaki isterleri yerine getirmeniz gerekir.
+> Eğer görüntüleri fiziksel olarak indirmek istiyorsanız alttaki isterleri yerine getirmeniz gerekir.
+{.is-warning}
+
 
 
 > Uygulama "C:\ITP\VIEWER" dosya yolunda olmalıdır.
