@@ -2,7 +2,7 @@
 title: Retrieve Images
 description: Görüntülerin Fiziksel Olarak İndirilmesi
 published: true
-date: 2024-03-14T11:06:28.598Z
+date: 2024-03-14T11:08:41.660Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-14T10:37:18.768Z
@@ -12,17 +12,25 @@ dateCreated: 2024-03-14T10:37:18.768Z
 Eğer görüntüleri fiziksel olarak indirmek istiyorsanız alttaki isterleri yerine getirmeniz gerekir.
 
 
-
-Client uygulaması eşsiz bir AETITLE'a sahip olmalıdır.
-![retrieve1.png](/retrieve1.png)
-![retrieve2.png](/retrieve2.png)
-
-Servis uygulaması kurulu ve çalışır olmalıdır.
-Firewalldan ilgili port izinli olmalıdır.
-Uygulama "C:\ITP\VIEWER" dosya yolunda olmalıdır.
+> Uygulama "C:\ITP\VIEWER" dosya yolunda olmalıdır.
+{.is-info}
 
 
+> Client uygulaması eşsiz bir AETITLE'a sahip olmalıdır.
+> ![retrieve1.png](/retrieve1.png)
+> ![retrieve2.png](/retrieve2.png)
+{.is-info}
 
 
-# Çözüm
-Çözüm adımları yada açıklaması.
+> Servis uygulaması kurulu ve çalışır olmalıdır.
+> Servis uygulaması kurulumu için yönetici olarak çalıştırın: [dicomviewerservicecreate.bat](/dicomviewerservicecreate.bat)
+> ![retrieve3.png](/retrieve3.png)
+{.is-info}
+
+
+
+> Firewalldan ilgili port izinli olmalıdır.
+> ![retrieve4.png](/retrieve4.png)
+{.is-info}
+
+
