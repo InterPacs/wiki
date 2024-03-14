@@ -2,7 +2,7 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-02-06T09:43:16.634Z
+date: 2024-03-14T13:48:40.086Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z
@@ -34,6 +34,8 @@ SQL Server 2016 ve üstü kurulmalıdır
 5. ffmpeg.exe dosyası kurulum yapılan path'e kopyalanır.
 6. HID exe çalıştırılır ve oluşan id ile lisans verilir
 7. Oluşturulan lisans kurulum yapılan path'e kopyalanır.
+8. ReportHeader klasörün de bulunan header dosyasından kurum bilgileri düzenlenir. Header dosyası şablona 8 tane fotoğraf gelecek şekilde ayarlanmıştır. Eğer 6 tane fotoğrafın şablonda olması talep edilirse header-6.html dosyasının içeriği header.html dosyasının içeriğine kopyalanır.
+9. ReportHeader klasöründe bulunan footer dosyasından kurum adres bilgisi düzenlenir.
 
 
 ## Kullanım
