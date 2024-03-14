@@ -1,0 +1,1 @@
+sc create InterPacs.DicomViewer binpath= "C:\ITP\VIEWER\ClearCanvas.Server.ShredHostService.exe -service"
