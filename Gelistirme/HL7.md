@@ -2,8 +2,8 @@
 title: HL7 Works
 description: HL7 Receive ve Send işlemlerinden sorumlu uygulama
 published: true
-date: 2024-03-19T11:43:04.518Z
-tags: 
+date: 2024-03-19T11:44:19.173Z
+tags: dev
 editor: markdown
 dateCreated: 2024-03-19T11:43:04.517Z
 ---
