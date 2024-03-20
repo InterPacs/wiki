@@ -2,7 +2,7 @@
 title: HL7 Works
 description: HL7 Receive ve Send işlemlerinden sorumlu uygulama
 published: true
-date: 2024-03-20T07:54:41.168Z
+date: 2024-03-20T08:09:33.071Z
 tags: dev
 editor: markdown
 dateCreated: 2024-03-19T11:43:04.517Z
@@ -180,6 +180,8 @@ info_service_enable = false
   "calling_aet" = "ITP"
   "called_aet" = "SERVERAE"
 ```
+> NOT: Kullanılmayacak settings parametresi # ile kapatılır. Örnek->  *#**forward_addrs = ["127.0.0.1:2101", "10.0.10.1:2102"]***
+{.is-warning}
 
 ## Bakım
 
