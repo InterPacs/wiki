@@ -2,7 +2,7 @@
 title: HL7 Works
 description: HL7 Receive ve Send işlemlerinden sorumlu uygulama
 published: true
-date: 2024-03-20T07:53:26.200Z
+date: 2024-03-20T07:54:41.168Z
 tags: dev
 editor: markdown
 dateCreated: 2024-03-19T11:43:04.517Z
@@ -80,6 +80,43 @@ info_service_enable = false
 
 **info_service_enable**: Her gelen HL7 mesajında hasta bilgisi ile bir görüntü oluşturularak hastanın kendi görüntüsüne kaydedilir.
 **[scu_setting]**: HL7 uygulamasının PACS'a görüntü gönderebilmesi için gerekli SCU tanımlamaları.
+
+
+```toml
+[layout]
+  "PID.2" = "PatientID"
+  "PID.4.0" = "PatientOtherID" # T.C. Kimlik
+  "OBR.2" = "AccessionNumber"
+  "PID.5.1" = "PatientFirstName"
+  "PID.5.0" = "PatientLastName"
+  "PID.5.2" = "PatientMiddleName"
+  "PID.7" = "PatientBirthDate"
+  "PID.8" = "PatientSex"
+  "PID.11" = "PatientAddress"
+  "PID.22" = "PatientEthnicGroup"
+  "NTE(2).3" = "PatientHistory"
+  "OBR.13" = "PatientComments"
+  "PV1.8.5" = "ReqPhysicianID"
+  "PV1.8.1" = "ReqPhysicianFamilyName"
+  "PV1.8.2" = "ReqPhysicianGivenName"
+  "PV1.3.1" = "RequestingService"
+  "ORC.9" = "SPStartDateTime"
+  "OBR.24" = "Modality"
+  #"ORC.12" = "RequestingPhysician"
+  "ORC.12" = "ReferringPhysician"
+  #"ORC.12.5" = "ReqPhysicianID"
+  #"ORC.12.1" = "ReqPhysicianFamilyName"
+  #"ORC.12.2" = "ReqPhysicianGivenName"
+  "OBR.4.0" = "SPStepID"
+  "OBR.4.1" = "SPStepDescription"
+  "PV1.19" = "AdmissionID"
+  "DG1(*).3.1" = "AdmittingDiagnosisDesc"
+  "OBR.17" = "PatientPhone"
+  #"OBR.21" = "SStationAETitle"
+  "PV1.2" = "PatientClass"
+  "OBR.21" = "ModalityId"
+```
+Gelen HL7 mesaj konfigürasyon parametreleri.
 
 Örnek uygulama konfigürasyon dosyası;
 
