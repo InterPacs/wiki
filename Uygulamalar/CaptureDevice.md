@@ -2,7 +2,7 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-04-02T09:44:59.857Z
+date: 2024-04-02T09:45:36.233Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z
@@ -25,8 +25,6 @@ InterPacs.CaptureDevice uygulaması Gastroenteroloji bölümündeki işlemlerde 
 
 ## Kurulum
 
-## Güncelleme
-
 ### Gereksinimler
 Windows 10 ve üstü olmalıdır
 SQL Server 2016 ve üstü kurulmalıdır
@@ -42,6 +40,8 @@ SQL Server 2016 ve üstü kurulmalıdır
 8. ReportHeader klasörün de bulunan header dosyasından kurum bilgileri düzenlenir. Header dosyası şablona 8 tane fotoğraf gelecek şekilde ayarlanmıştır. Eğer 6 tane fotoğrafın şablonda olması talep edilirse header-6.html dosyasının içeriği header.html dosyasının içeriğine kopyalanır.
 9. ReportHeader klasöründe bulunan footer dosyasından kurum adres bilgisi düzenlenir.
 
+
+## Güncelleme
 
 ## Kullanım
 
