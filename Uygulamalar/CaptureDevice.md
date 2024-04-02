@@ -2,7 +2,7 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-03-14T13:48:40.086Z
+date: 2024-04-02T09:34:55.558Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z
@@ -12,9 +12,14 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 InterPacs.CaptureDevice uygulaması Gastroenteroloji bölümündeki işlemlerde görüntü ve video alınmasını sağlayıp bunların PACS'a gönderilmesini ve bu işleme ait raporların yazılmasını sağlayan uygulamadır.
 # Tabs {.tabset}
 ## Sürüm Notları
-### v1.0.0
-- Değişiklik 1
-- Değişiklik 2
+### v3.0.0
+- Raporun HBYS'ye gönderilmesi için HL7 entegrasyonu eklendi
+- Doktor tanımlama ekranı eklendi
+- Cihaz tanımlama ekranı eklendi
+- Rapora cihaz parametresi eklendi
+- Worklist'ten hasta güncellenmesi eklendi
+- Yeni hasta kayıt ekranına doktor ve cihaz eklendi
+- Hasta değişikliklerinin takibi için hasta geçmiş takibi eklendi
 
 
 
