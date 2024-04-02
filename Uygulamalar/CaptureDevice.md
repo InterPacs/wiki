@@ -2,7 +2,7 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-04-02T09:34:55.558Z
+date: 2024-04-02T09:44:59.857Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z
@@ -25,7 +25,7 @@ InterPacs.CaptureDevice uygulaması Gastroenteroloji bölümündeki işlemlerde 
 
 ## Kurulum
 
-
+## Güncelleme
 
 ### Gereksinimler
 Windows 10 ve üstü olmalıdır
