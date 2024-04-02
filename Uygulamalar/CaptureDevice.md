@@ -2,7 +2,7 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-04-02T10:00:36.288Z
+date: 2024-04-02T13:51:29.003Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z
@@ -43,7 +43,10 @@ SQL Server 2016 ve üstü kurulmalıdır
 
 ## Güncelleme
 > ***Versiyon 2.0.0'dan 3.0.0'a yükseltmek için;***
-> 1. InterPacs.CaptureDevice.exe dosyasını uygulamanın ana path'ine kopyalayın.
+> 1. Aşağıdaki dosyaları uygulamanın ana path'ine kopyalayın.
+  InterPacs.CaptureDevice
+  SettingsForms.dll
+  ExtendedPictureBox.dll
 > 2. UpdateDB.sql script dosyasını çalıştırın.
 > 3. Konfigürasyon dosyası versiyona göre yeniden oluşacağı için tüm ayarları yeniden yapınız yada
 >    C:\Users\{user}\AppData\Local\Interpacs_Sağlık_Çözümler\InterPacs.CaptureDevice.e_Url_{?}\2.0.0.0\user.config dosyasını
