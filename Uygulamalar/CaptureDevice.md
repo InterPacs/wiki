@@ -2,7 +2,7 @@
 title: CaptureDevice
 description: Uygulama kısa açıklama
 published: true
-date: 2024-04-02T13:51:29.003Z
+date: 2024-04-02T14:23:04.204Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:13:49.234Z
@@ -47,13 +47,19 @@ SQL Server 2016 ve üstü kurulmalıdır
   InterPacs.CaptureDevice
   SettingsForms.dll
   ExtendedPictureBox.dll
+  HtmlAgilityPack.dll
+  HtmlAgilityPack.pdb
+  HtmlAgilityPack.xml
 > 2. UpdateDB.sql script dosyasını çalıştırın.
 > 3. Konfigürasyon dosyası versiyona göre yeniden oluşacağı için tüm ayarları yeniden yapınız yada
 >    C:\Users\{user}\AppData\Local\Interpacs_Sağlık_Çözümler\InterPacs.CaptureDevice.e_Url_{?}\2.0.0.0\user.config dosyasını
 >    C:\Users\{user}\AppData\Local\Interpacs_Sağlık_Çözümler\InterPacs.CaptureDevice.e_Url_{?}\3.0.0.0 içerisine atın.
 >    Sonrasında ayarlar mesnüsüne girip ayarları kontrol edin ve ek ayarları yapın.
+
 >    NOT: C:\Users\{user}\AppData\Local\Interpacs_Sağlık_Çözümler\InterPacs.CaptureDevice.e_Url_{?}\3.0.0.0 klasörünün oluşması için ayarlar menusüne girip bir kere kaydet yapılması gerekir.
-> {.is-warning}
+{.is-warning}
+
+
 
    
 ## Kullanım
