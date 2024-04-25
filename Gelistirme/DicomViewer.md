@@ -2,7 +2,7 @@
 title: Dicom Viewer
 description: Geliştirme Notları
 published: true
-date: 2024-02-28T12:29:17.711Z
+date: 2024-04-25T09:28:28.704Z
 tags: dev
 editor: markdown
 dateCreated: 2023-11-23T09:07:21.808Z
@@ -18,6 +18,12 @@ dateCreated: 2023-11-23T09:07:21.808Z
 >Startup projesi ClearCanvas.Desktop.Executable olmalı.
 
 >Release olarak Build edildiğinde düzenlenmiş hali `/bin/Publish` klasöründen alınabilir.
+
+# Versiyon
+>Versiyonu değiştirmek için `BuildTasks` solution'ı içerisindeki `CC.Utilities` projesini çalıştırıyoruz. Açılan pencereden string encrypt, decrypt işlemleri yapabiliyoruz. Projenin versiyon bilgisi `ImageViewer_critical.config` dosyasında encrypt edilmiş olarak tutuluyor. İstediğimiz versiyon bilgisini açtığımız pencereden encrypt edip, elde edilen değeri config dosyasındaki versiyon alanına yazıyoruz.
+![encrypted_version.png](/dicomviewergoruntu/encrypted_version.png)
+
+>Ek olarak `Desktop.Executable` ve `Common` projelerinin de versiyonlarını güncelliyoruz.
 
 ## Proj Otomasyon Dosyaları
 ClearCanvas tarafından oluşturulmuş `.proj` uzantılı otomasyon dosyalarını çalıştırmak için örnek komut satırı aşağıdadır. Parametreler ve ne işe yaradıkları keşfedildikçe dokümana eklenecektir.
