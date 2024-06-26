@@ -2,7 +2,7 @@
 title: Application Server
 description: InterPacs uygulamalarının kimlik doğrulama, yetkilendirme gibi ihtiyaçlarını karşılayan servis.
 published: true
-date: 2024-02-05T05:57:14.160Z
+date: 2024-06-26T08:45:30.025Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-13T10:45:16.073Z
@@ -53,6 +53,9 @@ Diğer programın ilk kurulumundan sonra güncelleme ile yetkilerinin değiştir
 ## Bakım
 
 ## Hata Çözümleri
-- [APPSRV001 Session timeout.]() Uygulamanızdan başarılı bir şekilde oturum açıldıktan sonra session timeout hatası ile karşılaşılır. Uygulamayı HTTPS üzerinden çalıştırdığınıza emin olun.
-- [APPSRV002 Permission request failed.]() Oturum açıldıktan hemen sonra yetkilerin alınması için otomatik yapılan /Permission isteği başarısız olur. AppServer'ın 1.0.1 den daha yüksek bir versiyon olduğuna emin olun.
+- [APPSRV001 Session timeout.]() Uygulamanızdan başarılı bir şekilde oturum açıldıktan sonra session timeout hatası ile karşılaşılır.
+-> Uygulamayı HTTPS üzerinden çalıştırdığınıza emin olun.
+- [APPSRV002 Permission request failed.]() Oturum açıldıktan hemen sonra yetkilerin alınması için otomatik yapılan /Permission isteği başarısız olur.
+-> AppServer'ın 1.0.1 den daha yüksek bir versiyon olduğuna emin olun.
+-> Uygulama derlenirken framework kütüphaneleri 1.1.0 dan aşağı versiyon ile derlenmiş olabilir.
 {.links-list}
