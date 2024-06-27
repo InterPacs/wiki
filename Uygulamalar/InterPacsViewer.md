@@ -2,7 +2,7 @@
 title: InterPacs.Viewer
 description: 
 published: true
-date: 2024-06-27T08:53:57.327Z
+date: 2024-06-27T08:56:53.988Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-25T08:08:37.590Z
@@ -33,13 +33,21 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 
 ## Kullanım
 
-Web viewer ile PACS üzerinde arama yapabilir, hasta görüntüleyebilirsiniz.
-#### 
+### Web Viewer Giriş
+
+> Web Viewer Arama Ekranı
+> 
+{.is-info}
+
 ![webviewer.png](/webviewer/webviewer.png)
 
-Karşılaştırma yapmak için birden fazla hastayı ctrl tuşuna basarak seçiniz ve karşılaştırma tuşuna basabilirsiniz.
+> Karşılaştırma yapmak için birden fazla hastayı ctrl tuşuna basarak seçiniz ve karşılaştırma tuşuna basabilirsiniz;
+> 
+{.is-info}
 
 ![karşılaştırma.png](/webviewer/karşılaştırma.png)
+
+### ICONLAR
 
 ![x_ray_web.png](/webviewer/x_ray_web.png) iconunu kullanarak hasta açabilirsiniz.
 
