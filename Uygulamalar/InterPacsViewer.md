@@ -2,7 +2,7 @@
 title: InterPacs.Viewer
 description: 
 published: true
-date: 2024-06-27T08:56:53.988Z
+date: 2024-06-27T08:59:49.163Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-25T08:08:37.590Z
@@ -31,9 +31,7 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 1. zip dosyası ... klasörü içine açılır.
 2. IIS üzerinde yeni bir uygulama oluşturularak bu klasöre bağlanır.
 
-## Kullanım
-
-### Web Viewer Giriş
+## Web Viewer Giriş Kullanım
 
 > Web Viewer Arama Ekranı
 > 
@@ -56,6 +54,8 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 ![cd.png](/webviewer/cd.png) iconunu kullanarak hastayı tanımlı CD robota gönderebilirsiniz.
 
 ![x_ray1.png](/webviewer/x_ray1.png) iconunu kullanarak eğer masaüstü viewerınız var ise hastayı masaüstünde açabilirsiniz.
+
+## Web Viewer Görüntüle Kullanım
 
 ## Bakım
 
