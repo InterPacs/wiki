@@ -2,7 +2,7 @@
 title: InterPacs.Viewer
 description: 
 published: true
-date: 2024-06-27T08:50:17.432Z
+date: 2024-06-27T08:53:57.327Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-25T08:08:37.590Z
@@ -41,7 +41,13 @@ Karşılaştırma yapmak için birden fazla hastayı ctrl tuşuna basarak seçin
 
 ![karşılaştırma.png](/webviewer/karşılaştırma.png)
 
-Hasta açmak için ![x_ray_web.png](/webviewer/x_ray_web.png)
+![x_ray_web.png](/webviewer/x_ray_web.png) iconunu kullanarak hasta açabilirsiniz.
+
+![download2.png](/webviewer/download2.png) iconunu kullanarak yetkiniz var ise hastaları zip olarak indirebilirsiniz.
+
+![cd.png](/webviewer/cd.png) iconunu kullanarak hastayı tanımlı CD robota gönderebilirsiniz.
+
+![x_ray1.png](/webviewer/x_ray1.png) iconunu kullanarak eğer masaüstü viewerınız var ise hastayı masaüstünde açabilirsiniz.
 
 ## Bakım
 
