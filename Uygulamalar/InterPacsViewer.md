@@ -2,7 +2,7 @@
 title: InterPacs.Viewer
 description: 
 published: true
-date: 2024-02-28T10:54:28.693Z
+date: 2024-06-27T08:50:17.432Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-25T08:08:37.590Z
@@ -32,6 +32,16 @@ Uygulamanın tanıtımı ve uzun açıklaması.
 2. IIS üzerinde yeni bir uygulama oluşturularak bu klasöre bağlanır.
 
 ## Kullanım
+
+Web viewer ile PACS üzerinde arama yapabilir, hasta görüntüleyebilirsiniz.
+#### 
+![webviewer.png](/webviewer/webviewer.png)
+
+Karşılaştırma yapmak için birden fazla hastayı ctrl tuşuna basarak seçiniz ve karşılaştırma tuşuna basabilirsiniz.
+
+![karşılaştırma.png](/webviewer/karşılaştırma.png)
+
+Hasta açmak için ![x_ray_web.png](/webviewer/x_ray_web.png)
 
 ## Bakım
 
